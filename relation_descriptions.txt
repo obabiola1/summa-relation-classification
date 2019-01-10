@@ -1,0 +1,1192 @@
+airline hub	OBJECT_ENTITY is the airport at which you can find SUBJECT_ENTITY
+airline hub	The airport at which SUBJECT_ENTITY operates out of is OBJECT_ENTITY
+airline hub	OBJECT_ENTITY is the airport SUBJECT_ENTITY is associated with
+airline hub	OBJECT_ENTITY is the airport which SUBJECT_ENTITY is a part of
+airline hub	The name of the airport associated with SUBJECT_ENTITY is OBJECT_ENTITY
+airline hub	OBJECT_ENTITY is the name of the airport where SUBJECT_ENTITY is located
+airline hub	 The airline hub SUBJECT_ENTITY operates out of is OBJECT_ENTITY
+airline hub	 The airport SUBJECT_ENTITY operates in is OBJECT_ENTITY
+airline hub	The airport most closely associated with SUBJECT_ENTITY is OBJECT_ENTITY
+architect	OBJECT_ENTITY is the person who designed SUBJECT_ENTITY
+architect	The architect of SUBJECT_ENTITY is OBJECT_ENTITY
+architect	OBJECT_ENTITY was the architect of SUBJECT_ENTITY
+architect	The architect of SUBJECT_ENTITY was OBJECT_ENTITY
+architect	OBJECT_ENTITY was the designer for SUBJECT_ENTITY
+architect	The SUBJECT_ENTITY project's architect was OBJECT_ENTITY
+architectural style	OBJECT_ENTITY was the style of SUBJECT_ENTITY
+architectural style	The art style of SUBJECT_ENTITY is OBJECT_ENTITY
+architectural style	OBJECT_ENTITY is the kind of art style of SUBJECT_ENTITY
+architect	The architect who designed SUBJECT_ENTITY was OBJECT_ENTITY
+architect	OBJECT_ENTITY is the name of the SUBJECT_ENTITY architect
+architect	OBJECT_ENTITY was the name of the designer of SUBJECT_ENTITY
+architect	OBJECT_ENTITY was the name of the architect who worked on SUBJECT_ENTITY
+architect	The architect responsible for SUBJECT_ENTITY was OBJECT_ENTITY
+architect	OBJECT_ENTITY was the designer responsible for SUBJECT_ENTITY
+architect	OBJECT_ENTITY is the person who is the architect of SUBJECT_ENTITY
+architect	OBJECT_ENTITY was the person who was the architect of SUBJECT_ENTITY
+architect	OBJECT_ENTITY was the architect for SUBJECT_ENTITY
+architect	OBJECT_ENTITY created SUBJECT_ENTITY
+architect	OBJECT_ENTITY designed SUBJECT_ENTITY
+architect	OBJECT_ENTITY is the architect for SUBJECT_ENTITY
+architect	OBJECT_ENTITY is the architect of SUBJECT_ENTITY
+architect	OBJECT_ENTITY was behind the creation of SUBJECT_ENTITY
+architect	OBJECT_ENTITY was mainly responsible for the design of SUBJECT_ENTITY
+architect	OBJECT_ENTITY was responsible for the design of SUBJECT_ENTITY
+architect	OBJECT_ENTITY was the architect involved with SUBJECT_ENTITY
+architect	OBJECT_ENTITY was the architect or designer of SUBJECT_ENTITY
+architect	OBJECT_ENTITY was the architect that designed SUBJECT_ENTITY
+architect	OBJECT_ENTITY was the designer of SUBJECT_ENTITY
+architect	OBJECT_ENTITY was the designor of SUBJECT_ENTITY
+architect	OBJECT_ENTITY was the main designer of SUBJECT_ENTITY
+architect	SUBJECT_ENTITY was designed by OBJECT_ENTITY
+author	The literature of SUBJECT_ENTITY was written by OBJECT_ENTITY
+author	OBJECT_ENTITY was the one who wrote SUBJECT_ENTITY
+author	The writer of SUBJECT_ENTITY is OBJECT_ENTITY
+author	SUBJECT_ENTITY is written by OBJECT_ENTITY
+author	The author who wrote SUBJECT_ENTITY is OBJECT_ENTITY
+author	OBJECT_ENTITY is the name of the author of SUBJECT_ENTITY
+author	OBJECT_ENTITY is the name of the author of SUBJECT_ENTITY
+author	The writer who wrote SUBJECT_ENTITY is OBJECT_ENTITY
+author	OBJECT_ENTITY is the author associated with the work of SUBJECT_ENTITY
+author	OBJECT_ENTITY was the author responsible for SUBJECT_ENTITY
+author	OBJECT_ENTITY was the author who penned SUBJECT_ENTITY
+author	OBJECT_ENTITY was the author who wrote the novel titled SUBJECT_ENTITY
+author	OBJECT_ENTITY was the author who wrote SUBJECT_ENTITY
+author	OBJECT_ENTITY has written SUBJECT_ENTITY
+author	OBJECT_ENTITY authored SUBJECT_ENTITY
+author	OBJECT_ENTITY created SUBJECT_ENTITY
+author	OBJECT_ENTITY is the author of SUBJECT_ENTITY
+author	OBJECT_ENTITY is the creator of SUBJECT_ENTITY
+author	OBJECT_ENTITY is the writer of SUBJECT_ENTITY
+author	OBJECT_ENTITY is the SUBJECT_ENTITY by
+author	OBJECT_ENTITY writing work is SUBJECT_ENTITY
+author	OBJECT_ENTITY was the auther of SUBJECT_ENTITY
+author	OBJECT_ENTITY was the writer of SUBJECT_ENTITY
+author	OBJECT_ENTITY was SUBJECT_ENTITY written by
+author	OBJECT_ENTITY wrote the novel SUBJECT_ENTITY
+author	OBJECT_ENTITY wrote the work SUBJECT_ENTITY
+author	OBJECT_ENTITY wrote the SUBJECT_ENTITY
+author	OBJECT_ENTITY wrote SUBJECT_ENTITY
+award received	OBJECT_ENTITY award was received by SUBJECT_ENTITY
+award received	OBJECT_ENTITY was the award received by SUBJECT_ENTITY
+award received	SUBJECT_ENTITY got OBJECT_ENTITY award
+award received	OBJECT_ENTITY award was bestowed upon SUBJECT_ENTITY
+award received	SUBJECT_ENTITY was honoured with the OBJECT_ENTITY award
+based on	The SUBJECT_ENTITY is based upon OBJECT_ENTITY
+based on	OBJECT_ENTITY is the basis of SUBJECT_ENTITY
+brother	OBJECT_ENTITY is the name of SUBJECT_ENTITY's brother
+brother	OBJECT_ENTITY was the brother of SUBJECT_ENTITY
+canonization status	OBJECT_ENTITY title is held by SUBJECT_ENTITY
+cast member	In the film SUBJECT_ENTITY, OBJECT_ENTITY was the star
+cast member	OBJECT_ENTITY were cast members in SUBJECT_ENTITY
+cast member	OBJECT_ENTITY acted in SUBJECT_ENTITY
+cast member	OBJECT_ENTITY are the cast members of SUBJECT_ENTITY
+cast member	OBJECT_ENTITY are the stars of the film SUBJECT_ENTITY
+cast member	OBJECT_ENTITY featured in the film SUBJECT_ENTITY
+cast member	OBJECT_ENTITY acted in the comedy film SUBJECT_ENTITY
+cast member	OBJECT_ENTITY acted in the film SUBJECT_ENTITY
+cast member	OBJECT_ENTITY is in SUBJECT_ENTITY as a cast member
+cast member	OBJECT_ENTITY was the star of SUBJECT_ENTITY
+cause of death	OBJECT_ENTITY was the disease from which SUBJECT_ENTITY died
+cause of death	SUBJECT_ENTITY died from OBJECT_ENTITY
+cause of death	SUBJECT_ENTITY died by OBJECT_ENTITY
+cause of death	SUBJECT_ENTITY died of OBJECT_ENTITY
+cause of death	The cause of death for SUBJECT_ENTITY was OBJECT_ENTITY
+cause of death	The cause of death of SUBJECT_ENTITY is OBJECT_ENTITY
+cause of death	The disease that SUBJECT_ENTITY died of was OBJECT_ENTITY
+cause of death	OBJECT_ENTITY caused SUBJECT_ENTITY's death
+cause of death	OBJECT_ENTITY was what SUBJECT_ENTITY did die from
+cause of death	OBJECT_ENTITY was what SUBJECT_ENTITY did die of
+cause of death	OBJECT_ENTITY is the disease SUBJECT_ENTITY did have
+cause of death	OBJECT_ENTITY is the cause of death for SUBJECT_ENTITY
+cause of death	OBJECT_ENTITY is the cause of death of SUBJECT_ENTITY
+cause of death	OBJECT_ENTITY killed SUBJECT_ENTITY
+cause of death	OBJECT_ENTITY is the kind of medical issue SUBJECT_ENTITY did have
+cause of death	OBJECT_ENTITY medical condition killed SUBJECT_ENTITY
+cause of death	OBJECT_ENTITY was the cause of death for SUBJECT_ENTITY
+cause of death	OBJECT_ENTITY was the cause of death of SUBJECT_ENTITY
+cause of death	OBJECT_ENTITY was the cause of SUBJECT_ENTITY's death
+cause of death	OBJECT_ENTITY was SUBJECT_ENTITY cause of death
+cause of death	OBJECT_ENTITY was SUBJECT_ENTITY's cause of death
+cause of death	OBJECT_ENTITY is the ailment that caused the death of SUBJECT_ENTITY
+cause of death	OBJECT_ENTITY is the cause of death of SUBJECT_ENTITY
+cause of death	SUBJECT_ENTITY died as a result of OBJECT_ENTITY
+chairperson	OBJECT_ENTITY led SUBJECT_ENTITY
+characters	The SUBJECT_ENTITY has OBJECT_ENTITY character
+child	OBJECT_ENTITY was SUBJECT_ENTITY's child's name
+child	OBJECT_ENTITY is the offspring of SUBJECT_ENTITY
+chromosome	SUBJECT_ENTITY is found on OBJECT_ENTITY chromosome
+chromosome	SUBJECT_ENTITY is located on OBJECT_ENTITY chromosome
+chromosome	SUBJECT_ENTITY is of OBJECT_ENTITY chromosome
+chromosome	OBJECT_ENTITY is the name of the chromosome where you can find SUBJECT_ENTITY
+chromosome	OBJECT_ENTITY is the name of SUBJECT_ENTITY's chromosome
+chromosome	OBJECT_ENTITY is where the gene of SUBJECT_ENTITY is located
+chromosome	OBJECT_ENTITY chromosome is related with SUBJECT_ENTITY
+chromosome	OBJECT_ENTITY chromosome is where the gene of SUBJECT_ENTITY is located on
+chromosome	SUBJECT_ENTITY is associated with OBJECT_ENTITY chromosome
+chromosome	SUBJECT_ENTITY is found on OBJECT_ENTITY chromosome
+chromosome	SUBJECT_ENTITY is located on OBJECT_ENTITY chromosome
+chromosome	OBJECT_ENTITY chromosone is where you find SUBJECT_ENTITY
+collection	OBJECT_ENTITY is the name of the place where SUBJECT_ENTITY can be found
+conferred by	OBJECT_ENTITY gives out the SUBJECT_ENTITY award
+conflict	SUBJECT_ENTITY was an officer during the historic war of OBJECT_ENTITY
+conflict	SUBJECT_ENTITY fought in war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY did fight in war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY was a combatant in war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY was in war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY participated in the conflict OBJECT_ENTITY
+conflict	SUBJECT_ENTITY did fight in war/battle OBJECT_ENTITY
+conflict	SUBJECT_ENTITY did fight in war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY fought in war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY participated in war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY served in war OBJECT_ENTITY
+conflict	OBJECT_ENTITY conflict involved SUBJECT_ENTITY
+conflict	OBJECT_ENTITY is the war during which SUBJECT_ENTITY was in the armed forces
+conflict	SUBJECT_ENTITY did fight in war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY participated in war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY did fight in war or battle OBJECT_ENTITY
+conflict	SUBJECT_ENTITY was involved in war or battle OBJECT_ENTITY
+conflict	SUBJECT_ENTITY was in the war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY fought in the war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY was a part of the conflict OBJECT_ENTITY
+conflict	SUBJECT_ENTITY participated in the historic war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY participated in the war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY served in the war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY was a part of the war OBJECT_ENTITY
+conflict	SUBJECT_ENTITY was in the war OBJECT_ENTITY
+connecting line	OBJECT_ENTITY is the railway line on which the railway station SUBJECT_ENTITY is located
+connecting line	OBJECT_ENTITY is the railway line on which the railway station SUBJECT_ENTITY is situated
+connecting line	OBJECT_ENTITY is the line for SUBJECT_ENTITY
+connecting line	OBJECT_ENTITY is the line for SUBJECT_ENTITY station
+connecting line	OBJECT_ENTITY is the name of the line SUBJECT_ENTITY is located
+connecting line	OBJECT_ENTITY is the rail line that SUBJECT_ENTITY runs
+connecting line	OBJECT_ENTITY is the line SUBJECT_ENTITY is a part of
+connecting line	OBJECT_ENTITY is the line SUBJECT_ENTITY is on
+connecting line	OBJECT_ENTITY is the rail line SUBJECT_ENTITY serves
+connecting line	OBJECT_ENTITY rail line is served by SUBJECT_ENTITY
+connecting line	SUBJECT_ENTITY forms a part of the line OBJECT_ENTITY
+constellation	OBJECT_ENTITY is the constellation SUBJECT_ENTITY can be found in
+constellation	SUBJECT_ENTITY is in the constellation OBJECT_ENTITY
+constellation	SUBJECT_ENTITY is a part of the constellation OBJECT_ENTITY
+constellation	The star/galaxy SUBJECT_ENTITY is in the constellation OBJECT_ENTITY
+constellation	The star SUBJECT_ENTITY is a part of the constellation named OBJECT_ENTITY
+constellation	The star SUBJECT_ENTITY is part of the constellation known as OBJECT_ENTITY
+constellation	The star SUBJECT_ENTITY is part of constellation OBJECT_ENTITY
+constellation	OBJECT_ENTITY is the constellation SUBJECT_ENTITY belongs to
+constellation	The constellation OBJECT_ENTITY is home to SUBJECT_ENTITY
+constellation	The constellation OBJECT_ENTITY is where SUBJECT_ENTITY is
+constellation	SUBJECT_ENTITY is a part of the constellation OBJECT_ENTITY
+constellation	SUBJECT_ENTITY is in the constellation OBJECT_ENTITY
+constellation	SUBJECT_ENTITY is located in the constellation OBJECT_ENTITY
+constellation	SUBJECT_ENTITY part of the constellation OBJECT_ENTITY
+constellation	OBJECT_ENTITY is the constellation that is made with SUBJECT_ENTITY
+constellation	OBJECT_ENTITY is the constellation that SUBJECT_ENTITY is a part of
+constellation	OBJECT_ENTITY is the constellation where SUBJECT_ENTITY is located
+constellation	OBJECT_ENTITY is the name of the constellation where SUBJECT_ENTITY belongs
+constellation	OBJECT_ENTITY is the name of the constellation which SUBJECT_ENTITY belongs
+constellation	OBJECT_ENTITY constellation is formed by SUBJECT_ENTITY
+constellation	SUBJECT_ENTITY is a part of constellation OBJECT_ENTITY
+constellation	SUBJECT_ENTITY is in constellation OBJECT_ENTITY
+constellation	OBJECT_ENTITY was the constellation for SUBJECT_ENTITY
+continent	SUBJECT_ENTITY is in continent OBJECT_ENTITY
+continent	SUBJECT_ENTITY is located in continent OBJECT_ENTITY
+continent	The continent in which SUBJECT_ENTITY is located is OBJECT_ENTITY
+continent	OBJECT_ENTITY is the continent on which SUBJECT_ENTITY be found
+continent	SUBJECT_ENTITY located on the continent OBJECT_ENTITY
+continent	The continent of SUBJECT_ENTITY is OBJECT_ENTITY
+continent	The continent that SUBJECT_ENTITY is on is OBJECT_ENTITY
+continent	OBJECT_ENTITY continent is where you find SUBJECT_ENTITY
+continent	OBJECT_ENTITY continent contains SUBJECT_ENTITY
+continent	SUBJECT_ENTITY can be found on continent OBJECT_ENTITY
+continent	SUBJECT_ENTITY is located on continent OBJECT_ENTITY
+continent	SUBJECT_ENTITY is on continent OBJECT_ENTITY
+continent	OBJECT_ENTITY is the continent of SUBJECT_ENTITY
+continent	OBJECT_ENTITY is the continent that SUBJECT_ENTITY is located
+continent	OBJECT_ENTITY is the name of the continent where SUBJECT_ENTITY is located
+continent	OBJECT_ENTITY is the continent which SUBJECT_ENTITY is in
+continent	OBJECT_ENTITY is the continent which SUBJECT_ENTITY is located
+continent	OBJECT_ENTITY is the continent which SUBJECT_ENTITY is on
+convicted of	SUBJECT_ENTITY was prosecuted for crime OBJECT_ENTITY
+convicted of	OBJECT_ENTITY crime led to the conviction of SUBJECT_ENTITY
+convicted of	OBJECT_ENTITY is the crime SUBJECT_ENTITY is considered to have committed
+country	SUBJECT_ENTITY be found in country OBJECT_ENTITY
+country	SUBJECT_ENTITY is in country OBJECT_ENTITY
+country	SUBJECT_ENTITY is located in country OBJECT_ENTITY
+country	In country OBJECT_ENTITY you would find SUBJECT_ENTITY
+country	SUBJECT_ENTITY is located in country OBJECT_ENTITY
+country	SUBJECT_ENTITY is in country OBJECT_ENTITY
+country	SUBJECT_ENTITY can be found in country OBJECT_ENTITY
+country	SUBJECT_ENTITY is located in country OBJECT_ENTITY
+country	SUBJECT_ENTITY is situated in country OBJECT_ENTITY
+country	In country OBJECT_ENTITY you would find SUBJECT_ENTITY
+country of citizenship	SUBJECT_ENTITY lives in country OBJECT_ENTITY
+country of citizenship	SUBJECT_ENTITY is a citizen of country OBJECT_ENTITY
+country of citizenship	OBJECT_ENTITY is the country where SUBJECT_ENTITY is a citizen
+country of citizenship	SUBJECT_ENTITY belongs to country OBJECT_ENTITY as its citizen
+country of citizenship	SUBJECT_ENTITY comes from country OBJECT_ENTITY
+country of citizenship	SUBJECT_ENTITY is from country OBJECT_ENTITY
+country of citizenship	OBJECT_ENTITY is the country SUBJECT_ENTITY was from
+country of citizenship	OBJECT_ENTITY is the country SUBJECT_ENTITY was in
+country of citizenship	SUBJECT_ENTITY's country of citizenship is OBJECT_ENTITY
+country of citizenship	OBJECT_ENTITY is SUBJECT_ENTITY's country of original
+country of citizenship	OBJECT_ENTITY was SUBJECT_ENTITY's birth country
+country of citizenship	OBJECT_ENTITY is where SUBJECT_ENTITY is from
+country of citizenship	SUBJECT_ENTITY belongs to country OBJECT_ENTITY
+country of citizenship	SUBJECT_ENTITY is a citizen of country OBJECT_ENTITY
+country of citizenship	SUBJECT_ENTITY is from country OBJECT_ENTITY
+country of citizenship	OBJECT_ENTITY is the country SUBJECT_ENTITY holds a citizenship of
+country of citizenship	SUBJECT_ENTITY was a citizen of country OBJECT_ENTITY
+country of citizenship	SUBJECT_ENTITY was in country OBJECT_ENTITY
+country of origin	The country for SUBJECT_ENTITY was OBJECT_ENTITY
+country of origin	The country of origin for SUBJECT_ENTITY is OBJECT_ENTITY
+country of origin	SUBJECT_ENTITY originated from country OBJECT_ENTITY
+country of origin	SUBJECT_ENTITY was realeased by country OBJECT_ENTITY
+country of origin	OBJECT_ENTITY is the country SUBJECT_ENTITY is from
+country of origin	OBJECT_ENTITY was the country for SUBJECT_ENTITY
+country	The town of SUBJECT_ENTITY is located in country OBJECT_ENTITY
+country	OBJECT_ENTITY is the country home to SUBJECT_ENTITY
+country	OBJECT_ENTITY is the country SUBJECT_ENTITY is a part of
+country	OBJECT_ENTITY is the country SUBJECT_ENTITY is located in
+country	OBJECT_ENTITY is the country that SUBJECT_ENTITY is located in
+country	OBJECT_ENTITY is the name of the country in which SUBJECT_ENTITY is located
+country	OBJECT_ENTITY is the name of the country that SUBJECT_ENTITY is located
+country	OBJECT_ENTITY is the name of the country SUBJECT_ENTITY is in
+country	OBJECT_ENTITY is the name of SUBJECT_ENTITY's country
+country	OBJECT_ENTITY is the country you can find SUBJECT_ENTITY
+country	OBJECT_ENTITY is the country that contains SUBJECT_ENTITY
+country	OBJECT_ENTITY is the country SUBJECT_ENTITY is in
+country	OBJECT_ENTITY is the country SUBJECT_ENTITY is located
+country	SUBJECT_ENTITY is a part of country OBJECT_ENTITY
+country	OBJECT_ENTITY is the country you would find yourself in if you visited SUBJECT_ENTITY
+country	OBJECT_ENTITY is the country with which you would associate SUBJECT_ENTITY
+creator	The artwork SUBJECT_ENTITY was by OBJECT_ENTITY
+creator	The SUBJECT_ENTITY was made by OBJECT_ENTITY
+creator	OBJECT_ENTITY was the artist responsible for the creation of SUBJECT_ENTITY
+creator	OBJECT_ENTITY was the creator of SUBJECT_ENTITY
+creator	OBJECT_ENTITY developed SUBJECT_ENTITY
+creator	OBJECT_ENTITY is the creator of SUBJECT_ENTITY
+creator	SUBJECT_ENTITY is by OBJECT_ENTITY
+crosses	OBJECT_ENTITY is what river SUBJECT_ENTITY crosses
+crosses	OBJECT_ENTITY is the river SUBJECT_ENTITY crosses
+crosses	OBJECT_ENTITY is what SUBJECT_ENTITY crosses over
+crosses	SUBJECT_ENTITY crosses the river OBJECT_ENTITY
+date of birth	The birth date of SUBJECT_ENTITY is OBJECT_ENTITY
+date of birth	The date of birth for SUBJECT_ENTITY is OBJECT_ENTITY
+date of birth	The date of birth of SUBJECT_ENTITY is OBJECT_ENTITY
+date of birth	OBJECT_ENTITY is the birth date of SUBJECT_ENTITY
+date of birth	OBJECT_ENTITY is the date of birth for SUBJECT_ENTITY
+date of birth	OBJECT_ENTITY was the date of birth of SUBJECT_ENTITY
+date of birth	OBJECT_ENTITY is the date of birth of SUBJECT_ENTITY
+date of birth	OBJECT_ENTITY was the birth of SUBJECT_ENTITY
+date of birth	OBJECT_ENTITY was when SUBJECT_ENTITY was born
+date of death	OBJECT_ENTITY is the date on what SUBJECT_ENTITY died
+date of death	OBJECT_ENTITY is the date on which SUBJECT_ENTITY expired
+date of death	OBJECT_ENTITY is the date on which SUBJECT_ENTITY died
+date of death	The date of death for SUBJECT_ENTITY is OBJECT_ENTITY
+date of death	The death of SUBJECT_ENTITY occured on the date OBJECT_ENTITY
+date of death	The year SUBJECT_ENTITY died was OBJECT_ENTITY
+date of death	OBJECT_ENTITY is the date that SUBJECT_ENTITY died
+date of death	OBJECT_ENTITY is the date that SUBJECT_ENTITY died on
+date of death	OBJECT_ENTITY is the date of death for SUBJECT_ENTITY
+date of death	OBJECT_ENTITY is the date of SUBJECT_ENTITY's death
+date of death	OBJECT_ENTITY was the date of death for SUBJECT_ENTITY
+date of death	OBJECT_ENTITY was the date of death of SUBJECT_ENTITY
+date of death	OBJECT_ENTITY was the date of SUBJECT_ENTITY's death
+date of death	OBJECT_ENTITY was the death date of SUBJECT_ENTITY
+date of death	OBJECT_ENTITY is the year SUBJECT_ENTITY died
+date of death	OBJECT_ENTITY is the year SUBJECT_ENTITY did die in
+date of death	OBJECT_ENTITY is when the life of SUBJECT_ENTITY did end
+date of death	OBJECT_ENTITY is when SUBJECT_ENTITY died
+date of death	OBJECT_ENTITY is when SUBJECT_ENTITY's death occurred
+date of death	SUBJECT_ENTITY's death was on OBJECT_ENTITY
+date of death	OBJECT_ENTITY is the date of death for SUBJECT_ENTITY
+date of official opening	OBJECT_ENTITY was the date of the official opening of SUBJECT_ENTITY
+date of official opening	OBJECT_ENTITY was the date of the opening of SUBJECT_ENTITY
+date of official opening	OBJECT_ENTITY was the year SUBJECT_ENTITY opened
+date of official opening	OBJECT_ENTITY was the date of official opening of SUBJECT_ENTITY
+date of official opening	OBJECT_ENTITY was when SUBJECT_ENTITY did begin
+date of official opening	OBJECT_ENTITY was when SUBJECT_ENTITY did open
+date of official opening	OBJECT_ENTITY was the official opening of SUBJECT_ENTITY
+date of official opening	OBJECT_ENTITY was the opening of SUBJECT_ENTITY
+date of official opening	OBJECT_ENTITY was when SUBJECT_ENTITY was created
+date of official opening	OBJECT_ENTITY was when SUBJECT_ENTITY was founded
+date of official opening	OBJECT_ENTITY was when SUBJECT_ENTITY was founded/built
+date of official opening	OBJECT_ENTITY was when SUBJECT_ENTITY opened
+date of official opening	OBJECT_ENTITY was when SUBJECT_ENTITY opened officially
+date of official opening	OBJECT_ENTITY was when SUBJECT_ENTITY started
+designer	OBJECT_ENTITY is the name of the person who designed SUBJECT_ENTITY
+designer	OBJECT_ENTITY is the designer of SUBJECT_ENTITY
+designer	OBJECT_ENTITY designed SUBJECT_ENTITY
+designer	OBJECT_ENTITY designed the SUBJECT_ENTITY
+designer	OBJECT_ENTITY developed SUBJECT_ENTITY
+designer	OBJECT_ENTITY is the designer of SUBJECT_ENTITY
+designer	OBJECT_ENTITY was the designer of SUBJECT_ENTITY
+designer	SUBJECT_ENTITY was designed by OBJECT_ENTITY
+designer	OBJECT_ENTITY worked on designing SUBJECT_ENTITY
+designer	OBJECT_ENTITY worked on SUBJECT_ENTITY
+developer	SUBJECT_ENTITY was developed by OBJECT_ENTITY
+developer	OBJECT_ENTITY is the name of SUBJECT_ENTITY's developer
+developer	OBJECT_ENTITY is the company that developed the videogame SUBJECT_ENTITY
+developer	The company OBJECT_ENTITY developed SUBJECT_ENTITY
+developer	OBJECT_ENTITY is the developer which released SUBJECT_ENTITY
+developer	OBJECT_ENTITY is originally behind the development of SUBJECT_ENTITY
+developer	OBJECT_ENTITY is the developer of SUBJECT_ENTITY
+developer	OBJECT_ENTITY worked on SUBJECT_ENTITY
+developer	OBJECT_ENTITY is the development company with which you would associate SUBJECT_ENTITY
+director	The director of SUBJECT_ENTITY is OBJECT_ENTITY
+director	The director of SUBJECT_ENTITY is OBJECT_ENTITY
+director	The film SUBJECT_ENTITY was directed by OBJECT_ENTITY
+director	The main director of SUBJECT_ENTITY was OBJECT_ENTITY
+director	SUBJECT_ENTITY was produced under the direction of OBJECT_ENTITY
+director	OBJECT_ENTITY is the director of SUBJECT_ENTITY
+director	OBJECT_ENTITY is the name of the director of SUBJECT_ENTITY
+director	OBJECT_ENTITY was the name of the director for SUBJECT_ENTITY
+director	OBJECT_ENTITY was the director who helmed the movie SUBJECT_ENTITY
+director	OBJECT_ENTITY is the director who worked on SUBJECT_ENTITY
+director	OBJECT_ENTITY directed the film SUBJECT_ENTITY
+director	OBJECT_ENTITY directed SUBJECT_ENTITY
+director	OBJECT_ENTITY had the role of director in SUBJECT_ENTITY
+director	OBJECT_ENTITY is director of SUBJECT_ENTITY
+director	OBJECT_ENTITY is the director for SUBJECT_ENTITY
+director	OBJECT_ENTITY is the director of the film, SUBJECT_ENTITY
+director	OBJECT_ENTITY is the director of SUBJECT_ENTITY
+director	SUBJECT_ENTITY is under the direction of OBJECT_ENTITY
+director	OBJECT_ENTITY served as director for SUBJECT_ENTITY
+director	OBJECT_ENTITY was responsible for the direction of SUBJECT_ENTITY
+director	OBJECT_ENTITY was the director for SUBJECT_ENTITY
+director	OBJECT_ENTITY was the director of SUBJECT_ENTITY
+director	OBJECT_ENTITY was the person who directed SUBJECT_ENTITY
+director	SUBJECT_ENTITY was directed by OBJECT_ENTITY
+director	SUBJECT_ENTITY was directed by OBJECT_ENTITY
+director	SUBJECT_ENTITY a 2001 german drama film directed by OBJECT_ENTITY
+discoverer or inventor	SUBJECT_ENTITY was discovered by OBJECT_ENTITY
+discoverer or inventor	The inventor of SUBJECT_ENTITY was OBJECT_ENTITY
+discoverer or inventor	The SUBJECT_ENTITY was discovered by OBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY is the name of the person who discovered SUBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY was the name of the discoverer of SUBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY discovered the SUBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY discovered SUBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY found SUBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY made the discovery of SUBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY made SUBJECT_ENTITY known
+discoverer or inventor	OBJECT_ENTITY was behind the discovery of SUBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY was responsible for the discovery of SUBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY was the discoverer of SUBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY was the original discoverer of SUBJECT_ENTITY
+discoverer or inventor	OBJECT_ENTITY would be the first to discover SUBJECT_ENTITY
+dissolved or abolished	In year OBJECT_ENTITY, SUBJECT_ENTITY ceased to exist
+dissolved or abolished	OBJECT_ENTITY is the ending year of SUBJECT_ENTITY
+dissolved or abolished	OBJECT_ENTITY is the final year of SUBJECT_ENTITY
+dissolved or abolished	OBJECT_ENTITY is the year SUBJECT_ENTITY dissolved
+dissolved or abolished	OBJECT_ENTITY is the year SUBJECT_ENTITY ended
+dissolved or abolished	OBJECT_ENTITY was the year when SUBJECT_ENTITY was dissolved
+dissolved or abolished	OBJECT_ENTITY year was the end of SUBJECT_ENTITY
+dissolved or abolished	OBJECT_ENTITY was when SUBJECT_ENTITY was abolished
+dissolved or abolished	The year OBJECT_ENTITY was when SUBJECT_ENTITY did end
+distributor	The distributor of SUBJECT_ENTITY is OBJECT_ENTITY
+distributor	The distributor of SUBJECT_ENTITY was OBJECT_ENTITY
+distributor	The production company for SUBJECT_ENTITY was OBJECT_ENTITY
+distributor	OBJECT_ENTITY is the company that distributed SUBJECT_ENTITY
+distributor	OBJECT_ENTITY is the company that made SUBJECT_ENTITY
+distributor	OBJECT_ENTITY is the company that produced SUBJECT_ENTITY
+distributor	OBJECT_ENTITY is the company that released SUBJECT_ENTITY
+distributor	SUBJECT_ENTITY was released by the company OBJECT_ENTITY
+distributor	OBJECT_ENTITY is the name of the company which distributed SUBJECT_ENTITY
+distributor	The studio OBJECT_ENTITY released the movie SUBJECT_ENTITY
+distributor	The studio OBJECT_ENTITY released SUBJECT_ENTITY
+distributor	OBJECT_ENTITY was the production company for SUBJECT_ENTITY
+distributor	OBJECT_ENTITY was the digital media that publicised SUBJECT_ENTITY
+distributor	OBJECT_ENTITY is the distributor of SUBJECT_ENTITY
+distributor	OBJECT_ENTITY was the production company for SUBJECT_ENTITY
+distributor	OBJECT_ENTITY distributed SUBJECT_ENTITY
+distributor	OBJECT_ENTITY produced or published SUBJECT_ENTITY
+distributor	OBJECT_ENTITY released SUBJECT_ENTITY
+distributor	OBJECT_ENTITY was the distributor of SUBJECT_ENTITY
+distributor	SUBJECT_ENTITY was released by OBJECT_ENTITY
+drafted by	SUBJECT_ENTITY is on the team OBJECT_ENTITY
+drafted by	Player SUBJECT_ENTITY played for OBJECT_ENTITY team
+drafted by	SUBJECT_ENTITY plays forthe team OBJECT_ENTITY
+drafted by	SUBJECT_ENTITY belongs to the team OBJECT_ENTITY
+drafted by	SUBJECT_ENTITY is associated with the team OBJECT_ENTITY
+drafted by	SUBJECT_ENTITY is on the team OBJECT_ENTITY
+drafted by	The team that SUBJECT_ENTITY plays for is OBJECT_ENTITY
+editor	OBJECT_ENTITY is the name of the editors of SUBJECT_ENTITY
+editor	OBJECT_ENTITY assembled SUBJECT_ENTITY
+editor	OBJECT_ENTITY created SUBJECT_ENTITY
+editor	OBJECT_ENTITY was the editor of SUBJECT_ENTITY
+educated at	The college SUBJECT_ENTITY attended was OBJECT_ENTITY
+educated at	OBJECT_ENTITY is the college SUBJECT_ENTITY did go to
+educated at	OBJECT_ENTITY is the name of university that educated SUBJECT_ENTITY
+educated at	OBJECT_ENTITY is the name university that educated SUBJECT_ENTITY
+educated at	OBJECT_ENTITY is the university where SUBJECT_ENTITY went
+educated at	SUBJECT_ENTITY attended OBJECT_ENTITY university
+educated at	SUBJECT_ENTITY studied or worked at OBJECT_ENTITY
+educated at	OBJECT_ENTITY college or university is related with SUBJECT_ENTITY
+employer	OBJECT_ENTITY is SUBJECT_ENTITY's place of employment
+end time	OBJECT_ENTITY is the date on which SUBJECT_ENTITY did end
+father	The father of SUBJECT_ENTITY is OBJECT_ENTITY
+father	The father of SUBJECT_ENTITY was OBJECT_ENTITY
+father	OBJECT_ENTITY is the name of SUBJECT_ENTITY father
+father	OBJECT_ENTITY is SUBJECT_ENTITY's father's name
+father	OBJECT_ENTITY was the name of the father of SUBJECT_ENTITY
+father	OBJECT_ENTITY fathered SUBJECT_ENTITY
+father	OBJECT_ENTITY is listed as SUBJECT_ENTITY father
+father	OBJECT_ENTITY is the paternal progenitor of SUBJECT_ENTITY
+father	OBJECT_ENTITY is SUBJECT_ENTITY's dad
+father	OBJECT_ENTITY is SUBJECT_ENTITY's father
+father	OBJECT_ENTITY was the dad of SUBJECT_ENTITY
+father	OBJECT_ENTITY was the male parent of SUBJECT_ENTITY
+father	OBJECT_ENTITY was SUBJECT_ENTITY's father
+father	OBJECT_ENTITY was SUBJECT_ENTITY's paternal figure
+film editor	SUBJECT_ENTITY was directed or edited by OBJECT_ENTITY
+film editor	The director of SUBJECT_ENTITY is OBJECT_ENTITY
+film editor	The movie SUBJECT_ENTITY is by OBJECT_ENTITY
+film editor	OBJECT_ENTITY is the name of the director of SUBJECT_ENTITY
+film editor	OBJECT_ENTITY was the director's name of SUBJECT_ENTITY
+film editor	OBJECT_ENTITY director directed SUBJECT_ENTITY
+film editor	OBJECT_ENTITY director worked on the film SUBJECT_ENTITY
+film editor	OBJECT_ENTITY directed or edited SUBJECT_ENTITY
+film editor	OBJECT_ENTITY directed the film SUBJECT_ENTITY
+film editor	OBJECT_ENTITY directed SUBJECT_ENTITY
+film editor	OBJECT_ENTITY had the role of director in SUBJECT_ENTITY
+film editor	OBJECT_ENTITY is the director of SUBJECT_ENTITY
+film editor	SUBJECT_ENTITY is under OBJECT_ENTITY direction
+film editor	OBJECT_ENTITY was responsible for directing SUBJECT_ENTITY
+film editor	OBJECT_ENTITY was responsible for the direction of SUBJECT_ENTITY
+film editor	OBJECT_ENTITY was the director of SUBJECT_ENTITY
+film editor	OBJECT_ENTITY was the film director that directed SUBJECT_ENTITY
+film editor	SUBJECT_ENTITY was directed or edited by OBJECT_ENTITY
+founder	OBJECT_ENTITY is the name of the founder of SUBJECT_ENTITY
+founder	OBJECT_ENTITY is the founder of SUBJECT_ENTITY
+founder	OBJECT_ENTITY is the person that formed SUBJECT_ENTITY
+founder	OBJECT_ENTITY person is involved in the founding of SUBJECT_ENTITY
+founder	OBJECT_ENTITY created SUBJECT_ENTITY
+founder	OBJECT_ENTITY formed SUBJECT_ENTITY
+founder	OBJECT_ENTITY founded SUBJECT_ENTITY
+founder	OBJECT_ENTITY is responsible for founding SUBJECT_ENTITY
+founder	OBJECT_ENTITY is the founder of SUBJECT_ENTITY
+founder	OBJECT_ENTITY started SUBJECT_ENTITY
+found in taxon	SUBJECT_ENTITY can be found in living being OBJECT_ENTITY
+found in taxon	SUBJECT_ENTITY is specific to the species OBJECT_ENTITY
+found in taxon	OBJECT_ENTITY species has the SUBJECT_ENTITY gene
+from fictional universe	SUBJECT_ENTITY exists in the fictional universe OBJECT_ENTITY
+from fictional universe	SUBJECT_ENTITY is a character in the fictional universe OBJECT_ENTITY
+from fictional universe	SUBJECT_ENTITY is a part of the fictional universe OBJECT_ENTITY
+from fictional universe	OBJECT_ENTITY is the fictional universe that has SUBJECT_ENTITY
+from fictional universe	OBJECT_ENTITY is the fictional universe that SUBJECT_ENTITY appears in
+from fictional universe	OBJECT_ENTITY is the fictional universe that SUBJECT_ENTITY belongs to
+from fictional universe	OBJECT_ENTITY is the name of the fictional universe that SUBJECT_ENTITY is from
+from fictional universe	OBJECT_ENTITY is the universe that SUBJECT_ENTITY exists in
+from fictional universe	OBJECT_ENTITY is a type of universe in which SUBJECT_ENTITY is a fictional character in
+from fictional universe	SUBJECT_ENTITY from fictional universe OBJECT_ENTITY
+from fictional universe	SUBJECT_ENTITY is a part of the fictional universe OBJECT_ENTITY
+from fictional universe	The character SUBJECT_ENTITY is associated with the fictional universe OBJECT_ENTITY
+head of government	OBJECT_ENTITY is a person who was the head of government of SUBJECT_ENTITY
+head of government	OBJECT_ENTITY became the leader of SUBJECT_ENTITY
+head of government	OBJECT_ENTITY was elected leader of SUBJECT_ENTITY
+head of government	OBJECT_ENTITY was in charge of SUBJECT_ENTITY
+headquarters location	SUBJECT_ENTITY is based in the city of OBJECT_ENTITY
+headquarters location	SUBJECT_ENTITY is located in the city of OBJECT_ENTITY
+headquarters location	OBJECT_ENTITY is the city of headquarters of SUBJECT_ENTITY
+headquarters location	OBJECT_ENTITY city is where SUBJECT_ENTITY is located in
+headquarters location	OBJECT_ENTITY is the city where SUBJECT_ENTITY is from
+headquarters location	SUBJECT_ENTITY is located in city OBJECT_ENTITY
+home venue	SUBJECT_ENTITY plays in home venue OBJECT_ENTITY
+home venue	SUBJECT_ENTITY plays home games in the stadium OBJECT_ENTITY
+home venue	OBJECT_ENTITY is the athletic center where SUBJECT_ENTITY plays their home games
+home venue	The SUBJECT_ENTITY played home games at OBJECT_ENTITY
+home venue	OBJECT_ENTITY is the arena where SUBJECT_ENTITY plays in
+home venue	OBJECT_ENTITY is the home stadium where SUBJECT_ENTITY plays in
+home venue	OBJECT_ENTITY is the common name of the place where SUBJECT_ENTITY plays their home games
+home venue	OBJECT_ENTITY is the home stadium for SUBJECT_ENTITY
+home venue	OBJECT_ENTITY is the home arena for SUBJECT_ENTITY
+home venue	OBJECT_ENTITY is the home arena of SUBJECT_ENTITY
+home venue	OBJECT_ENTITY is the home ground of SUBJECT_ENTITY
+home venue	OBJECT_ENTITY is the home stadium of SUBJECT_ENTITY
+home venue	OBJECT_ENTITY is the home venue of SUBJECT_ENTITY
+home venue	OBJECT_ENTITY is the name of the place at which SUBJECT_ENTITY played
+home venue	OBJECT_ENTITY is the name of the stadium where SUBJECT_ENTITY plays home games
+home venue	OBJECT_ENTITY is SUBJECT_ENTITY's home stadium
+home venue	The location that hosts SUBJECT_ENTITY's home games is OBJECT_ENTITY
+home venue	OBJECT_ENTITY is the place where SUBJECT_ENTITY plays home games at
+home venue	OBJECT_ENTITY stadium was SUBJECT_ENTITY's home venue
+home venue	OBJECT_ENTITY was the name of SUBJECT_ENTITY's home stadium
+home venue	OBJECT_ENTITY is where the home games of SUBJECT_ENTITY are played
+home venue	OBJECT_ENTITY is where SUBJECT_ENTITY plays home games
+home venue	OBJECT_ENTITY is where SUBJECT_ENTITY plays their home games
+home venue	OBJECT_ENTITY is where SUBJECT_ENTITY play home games
+home venue	SUBJECT_ENTITY plays its game at OBJECT_ENTITY
+home venue	OBJECT_ENTITY is where SUBJECT_ENTITY plays its home games
+home venue	OBJECT_ENTITY is where SUBJECT_ENTITY plays
+home venue	OBJECT_ENTITY is where SUBJECT_ENTITY play their home games
+home venue	OBJECT_ENTITY is the stadium of SUBJECT_ENTITY
+illustrator	OBJECT_ENTITY is the name of the illustrator of the book SUBJECT_ENTITY
+illustrator	The person who illustrated SUBJECT_ENTITY is OBJECT_ENTITY
+illustrator	OBJECT_ENTITY is the illustrator of SUBJECT_ENTITY
+illustrator	SUBJECT_ENTITY was illustrated by OBJECT_ENTITY
+inception	OBJECT_ENTITY is the year SUBJECT_ENTITY came into existence
+inception	OBJECT_ENTITY is the year SUBJECT_ENTITY originated
+inception	OBJECT_ENTITY is the year SUBJECT_ENTITY was created
+inception	OBJECT_ENTITY is the year SUBJECT_ENTITY was formed
+inception	OBJECT_ENTITY is the year SUBJECT_ENTITY was founded
+inception	OBJECT_ENTITY is the year in which the first version of SUBJECT_ENTITY is released
+inception	OBJECT_ENTITY is the year SUBJECT_ENTITY was established
+inception	OBJECT_ENTITY is the year SUBJECT_ENTITY was formed
+inception	OBJECT_ENTITY is the year SUBJECT_ENTITY was incepted
+inception	The year that SUBJECT_ENTITY was created was OBJECT_ENTITY
+inception	OBJECT_ENTITY is year of inception of SUBJECT_ENTITY
+inception	OBJECT_ENTITY was the founding year of SUBJECT_ENTITY
+inception	OBJECT_ENTITY was the inception year of SUBJECT_ENTITY
+inception	OBJECT_ENTITY was the year of inception of SUBJECT_ENTITY
+inception	OBJECT_ENTITY was the year of SUBJECT_ENTITY's inception
+inception	OBJECT_ENTITY was the year SUBJECT_ENTITY was formed in
+inception	OBJECT_ENTITY was the year SUBJECT_ENTITY was created
+inception	The year SUBJECT_ENTITY was created in is OBJECT_ENTITY
+inception	The year SUBJECT_ENTITY was established is OBJECT_ENTITY
+inception	The year SUBJECT_ENTITY was formed in is OBJECT_ENTITY
+inception	The year SUBJECT_ENTITY was founded is OBJECT_ENTITY
+inception	OBJECT_ENTITY is when SUBJECT_ENTITY came into being
+inception	OBJECT_ENTITY was the inception of SUBJECT_ENTITY
+inception	OBJECT_ENTITY was when SUBJECT_ENTITY was created
+inception	OBJECT_ENTITY was when SUBJECT_ENTITY was established
+inception	OBJECT_ENTITY was when SUBJECT_ENTITY was launched
+inception	The year OBJECT_ENTITY witnessed the formation of SUBJECT_ENTITY
+industry	SUBJECT_ENTITY is associated with OBJECT_ENTITY industry
+instrumentation	SUBJECT_ENTITY is played on the instrument OBJECT_ENTITY
+instrumentation	SUBJECT_ENTITY was created to be played on the instrument OBJECT_ENTITY
+instrumentation	The work SUBJECT_ENTITY was created for playing on the instrument(s) OBJECT_ENTITY
+instrumentation	SUBJECT_ENTITY is for instrument OBJECT_ENTITY
+instrumentation	SUBJECT_ENTITY is scored for instrument OBJECT_ENTITY
+instrumentation	SUBJECT_ENTITY is written for instrument OBJECT_ENTITY
+instrumentation	SUBJECT_ENTITY was intended for the musical instrument OBJECT_ENTITY
+instrumentation	OBJECT_ENTITY is the name of the instrument SUBJECT_ENTITY was composed for
+instrumentation	SUBJECT_ENTITY is associated with the musical instrument OBJECT_ENTITY
+instrumentation	OBJECT_ENTITY  is the musical instrument SUBJECT_ENTITY was created for
+instrumentation	OBJECT_ENTITY is the type of instrument used to play SUBJECT_ENTITY
+instrumentation	OBJECT_ENTITY is the type of instrument SUBJECT_ENTITY is designed for
+instrumentation	SUBJECT_ENTITY was created for the instruments OBJECT_ENTITY
+instrumentation	SUBJECT_ENTITY was written for the instrument OBJECT_ENTITY
+instrumentation	The musical instrument OBJECT_ENTITY is connected with SUBJECT_ENTITY
+instrument	The instrument that SUBJECT_ENTITY played was OBJECT_ENTITY
+instrument	The instrument SUBJECT_ENTITY played is OBJECT_ENTITY
+instrument	SUBJECT_ENTITY learned to play the instrument OBJECT_ENTITY
+instrument	SUBJECT_ENTITY did play the instrument OBJECT_ENTITY
+instrument	OBJECT_ENTITY is the instrument SUBJECT_ENTITY played
+instrument	The musician SUBJECT_ENTITY plays the instrument OBJECT_ENTITY
+instrument	SUBJECT_ENTITY is known for playing the instrument OBJECT_ENTITY
+instrument	SUBJECT_ENTITY is proficient in the instrument OBJECT_ENTITY
+instrument	OBJECT_ENTITY is the instrument played by SUBJECT_ENTITY
+instrument	The instrument played by SUBJECT_ENTITY is OBJECT_ENTITY
+instrument	OBJECT_ENTITY is the instrument that SUBJECT_ENTITY plays
+instrument	OBJECT_ENTITY is the main instrument that SUBJECT_ENTITY plays
+instrument	OBJECT_ENTITY is the main musical instrument of SUBJECT_ENTITY
+instrument	OBJECT_ENTITY is the musical instrument SUBJECT_ENTITY specialises at
+instrument	OBJECT_ENTITY is the musical instrument SUBJECT_ENTITY associates himself with
+instrument	OBJECT_ENTITY is the instrument SUBJECT_ENTITY plays
+instrument	OBJECT_ENTITY is the instrument which which SUBJECT_ENTITY plays
+instrument	OBJECT_ENTITY is the instrument played by SUBJECT_ENTITY
+instrument	OBJECT_ENTITY is the instrument which SUBJECT_ENTITY was playing
+instrument	OBJECT_ENTITY is the musical instrument SUBJECT_ENTITY plays
+instrument	OBJECT_ENTITY is the musical instrument which has been played by SUBJECT_ENTITY
+instrument	OBJECT_ENTITY is the musical instrument associated with SUBJECT_ENTITY
+instrument	OBJECT_ENTITY is the musical instrument related to SUBJECT_ENTITY
+instrument	OBJECT_ENTITY is the musical instrument played by SUBJECT_ENTITY
+instrument	OBJECT_ENTITY is the musical instrument used by SUBJECT_ENTITY
+IUCN conservation status	OBJECT_ENTITY is how endangered the iucn considers SUBJECT_ENTITY
+IUCN conservation status	OBJECT_ENTITY is an ecological status of SUBJECT_ENTITY
+IUCN conservation status	OBJECT_ENTITY is the conservation status of SUBJECT_ENTITY
+IUCN conservation status	OBJECT_ENTITY is the endangered status of SUBJECT_ENTITY
+IUCN conservation status	OBJECT_ENTITY is the iucn conservation status of SUBJECT_ENTITY
+IUCN conservation status	OBJECT_ENTITY is the status of SUBJECT_ENTITY
+IUCN conservation status	OBJECT_ENTITY level is SUBJECT_ENTITY's iucn conservation status
+IUCN conservation status	OBJECT_ENTITY is the status on the endangered list of SUBJECT_ENTITY
+language of work or name	OBJECT_ENTITY is the language of SUBJECT_ENTITY
+language of work or name	OBJECT_ENTITY is the language SUBJECT_ENTITY is made in
+language of work or name	OBJECT_ENTITY is the language of SUBJECT_ENTITY monthly football magazine reporting
+language of work or name	OBJECT_ENTITY is the language that SUBJECT_ENTITY is in
+language of work or name	OBJECT_ENTITY is the language SUBJECT_ENTITY is written in
+language of work or name	OBJECT_ENTITY is the language SUBJECT_ENTITY is in
+language of work or name	OBJECT_ENTITY is the language SUBJECT_ENTITY is written
+language of work or name	OBJECT_ENTITY is the language SUBJECT_ENTITY is written in
+language of work or name	OBJECT_ENTITY is the language which SUBJECT_ENTITY is written in
+languages spoken or written	OBJECT_ENTITY is the nationality of SUBJECT_ENTITY
+languages spoken or written	The nationality of SUBJECT_ENTITY is OBJECT_ENTITY
+languages spoken or written	OBJECT_ENTITY is the nationality of birth of SUBJECT_ENTITY
+languages spoken or written	OBJECT_ENTITY is the nationality of SUBJECT_ENTITY
+languages spoken or written	OBJECT_ENTITY is the language SUBJECT_ENTITY speaks
+languages spoken or written	OBJECT_ENTITY is the nationality of SUBJECT_ENTITY
+languages spoken or written	The nationality of SUBJECT_ENTITY is OBJECT_ENTITY
+languages spoken or written	OBJECT_ENTITY was the nationality of SUBJECT_ENTITY
+languages spoken or written	OBJECT_ENTITY was SUBJECT_ENTITY's language
+languages spoken or written	OBJECT_ENTITY was SUBJECT_ENTITY's nationality
+languages spoken or written	OBJECT_ENTITY is the language or languages in which SUBJECT_ENTITY is fluent in
+languages spoken or written	OBJECT_ENTITY was the nationality of SUBJECT_ENTITY
+league	The team SUBJECT_ENTITY is a member of OBJECT_ENTITY sports league
+league	OBJECT_ENTITY is the football league SUBJECT_ENTITY is a part of
+league	OBJECT_ENTITY is the top sports league SUBJECT_ENTITY plays in
+league	OBJECT_ENTITY is the league SUBJECT_ENTITY participates in
+league	OBJECT_ENTITY is the league SUBJECT_ENTITY is in
+league	OBJECT_ENTITY is the league of SUBJECT_ENTITY
+league	OBJECT_ENTITY is the league SUBJECT_ENTITY joins with
+league	OBJECT_ENTITY is the soccer league SUBJECT_ENTITY is in
+licensed to broadcast to	OBJECT_ENTITY is the city in which SUBJECT_ENTITY is located
+licensed to broadcast to	OBJECT_ENTITY is the town SUBJECT_ENTITY is licensed in
+licensed to broadcast to	OBJECT_ENTITY is the town or city that SUBJECT_ENTITY serves
+license	OBJECT_ENTITY is the license of SUBJECT_ENTITY
+located in the administrative territorial entity	OBJECT_ENTITY is the state in which SUBJECT_ENTITY is located
+located in the administrative territorial entity	OBJECT_ENTITY is the name of the state where SUBJECT_ENTITY is located
+located in the administrative territorial entity	OBJECT_ENTITY is the state where SUBJECT_ENTITY is located
+located in the administrative territorial entity	OBJECT_ENTITY is the state where SUBJECT_ENTITY is located
+located next to body of water	OBJECT_ENTITY is the body of water by which SUBJECT_ENTITY is located
+located next to body of water	OBJECT_ENTITY is the body of water SUBJECT_ENTITY was next to
+located next to body of water	OBJECT_ENTITY is the body of water by SUBJECT_ENTITY
+located on astronomical body	OBJECT_ENTITY is the celestial body on which SUBJECT_ENTITY is located
+located on astronomical body	OBJECT_ENTITY is the moon or planet on which SUBJECT_ENTITY can be found
+located on astronomical body	OBJECT_ENTITY is the planet SUBJECT_ENTITY is on
+located on astronomical body	The astronomical body that SUBJECT_ENTITY is on is OBJECT_ENTITY
+located on astronomical body	The astronomical body that SUBJECT_ENTITY was located on was OBJECT_ENTITY
+located on astronomical body	OBJECT_ENTITY is the celestial body that SUBJECT_ENTITY can be found on
+located on astronomical body	OBJECT_ENTITY is the astronomical body that SUBJECT_ENTITY is located on
+located on astronomical body	OBJECT_ENTITY is where SUBJECT_ENTITY is found
+located on astronomical body	OBJECT_ENTITY is the planet on which SUBJECT_ENTITY is located
+location of formation	OBJECT_ENTITY is the city that the band SUBJECT_ENTITY is from
+location of formation	OBJECT_ENTITY is the city or state where the formation of SUBJECT_ENTITY occured
+location of formation	OBJECT_ENTITY is the city that the band SUBJECT_ENTITY is from
+location of formation	OBJECT_ENTITY is the city SUBJECT_ENTITY was formed in
+location of formation	OBJECT_ENTITY is the city of origin of SUBJECT_ENTITY
+location of formation	OBJECT_ENTITY is the home city of SUBJECT_ENTITY
+location of formation	OBJECT_ENTITY is the the name of the city or state where SUBJECT_ENTITY was formed
+lyrics by	The song SUBJECT_ENTITY was by OBJECT_ENTITY
+lyrics by	The track SUBJECT_ENTITY was by OBJECT_ENTITY
+lyrics by	OBJECT_ENTITY is the artist that created SUBJECT_ENTITY
+lyrics by	OBJECT_ENTITY is the name of the singer or writer of SUBJECT_ENTITY
+lyrics by	OBJECT_ENTITY is the artist known for writing SUBJECT_ENTITY
+lyrics by	The SUBJECT_ENTITY lyrics are by OBJECT_ENTITY
+lyrics by	OBJECT_ENTITY recorded SUBJECT_ENTITY
+lyrics by	OBJECT_ENTITY's song is SUBJECT_ENTITY
+lyrics by	OBJECT_ENTITY's work was SUBJECT_ENTITY
+lyrics by	OBJECT_ENTITY was the songwriter of SUBJECT_ENTITY
+lyrics by	OBJECT_ENTITY was the writter of SUBJECT_ENTITY
+lyrics by	OBJECT_ENTITY wrote SUBJECT_ENTITY
+manner of death	OBJECT_ENTITY was how SUBJECT_ENTITY died
+manner of death	The death of SUBJECT_ENTITY was by OBJECT_ENTITY
+manner of death	OBJECT_ENTITY was the cause of death listed for SUBJECT_ENTITY
+manner of death	OBJECT_ENTITY was the cause of death of SUBJECT_ENTITY
+manufacturer	SUBJECT_ENTITY has been manufactured by company OBJECT_ENTITY
+manufacturer	The manufacturer of SUBJECT_ENTITY was OBJECT_ENTITY
+manufacturer	The SUBJECT_ENTITY was produced by OBJECT_ENTITY
+manufacturer	The company OBJECT_ENTITY built SUBJECT_ENTITY
+manufacturer	The company OBJECT_ENTITY made SUBJECT_ENTITY
+manufacturer	The company OBJECT_ENTITY makes SUBJECT_ENTITY
+manufacturer	The company OBJECT_ENTITY manufactures SUBJECT_ENTITY
+manufacturer	The company OBJECT_ENTITY produced SUBJECT_ENTITY
+manufacturer	The company OBJECT_ENTITY is known as the manufacturer of SUBJECT_ENTITY
+manufacturer	The company OBJECT_ENTITY manufactured SUBJECT_ENTITY
+manufacturer	The corporation OBJECT_ENTITY created SUBJECT_ENTITY
+manufacturer	SUBJECT_ENTITY was created by the corporation OBJECT_ENTITY
+manufacturer	OBJECT_ENTITY is the manufacturer of SUBJECT_ENTITY
+manufacturer	OBJECT_ENTITY was the manufacturer of SUBJECT_ENTITY
+manufacturer	OBJECT_ENTITY made SUBJECT_ENTITY
+material used	OBJECT_ENTITY is what the surface of SUBJECT_ENTITY is made of
+material used	OBJECT_ENTITY material was used for SUBJECT_ENTITY
+medical condition	OBJECT_ENTITY caused SUBJECT_ENTITY's death
+medical condition	OBJECT_ENTITY disease caused the death of SUBJECT_ENTITY
+medical condition	SUBJECT_ENTITY struggled with OBJECT_ENTITY disease
+medical condition	SUBJECT_ENTITY contracted OBJECT_ENTITY disease
+medical condition	SUBJECT_ENTITY suffered from OBJECT_ENTITY disease
+medical condition	OBJECT_ENTITY disease was a factor in the death of SUBJECT_ENTITY
+medical condition	SUBJECT_ENTITY suffered from OBJECT_ENTITY illness
+medical condition	OBJECT_ENTITY illness negatively impacted SUBJECT_ENTITY
+medical condition	OBJECT_ENTITY led to SUBJECT_ENTITY's death
+medical condition	SUBJECT_ENTITY did have the medical condition OBJECT_ENTITY
+medical condition	At the end of his life SUBJECT_ENTITY has the OBJECT_ENTITY medical condition
+medical condition	OBJECT_ENTITY is the medical condition that SUBJECT_ENTITY has
+medical condition	The medical condition OBJECT_ENTITY killed SUBJECT_ENTITY
+medical condition	SUBJECT_ENTITY was suffering from the medical condition OBJECT_ENTITY
+medical condition	OBJECT_ENTITY was the sickness that killed SUBJECT_ENTITY
+medical condition	OBJECT_ENTITY was SUBJECT_ENTITY's medical condition near the end of his life
+medical condition	OBJECT_ENTITY is the medical condition that afflicts SUBJECT_ENTITY
+medical condition	OBJECT_ENTITY is the medical condition that SUBJECT_ENTITY suffers from
+member of political party	OBJECT_ENTITY is the political party SUBJECT_ENTITY is from
+member of political party	SUBJECT_ENTITY serves OBJECT_ENTITY political party
+member of political party	SUBJECT_ENTITY is a member of OBJECT_ENTITY political party
+member of political party	SUBJECT_ENTITY is a part of OBJECT_ENTITY political party
+member of political party	OBJECT_ENTITY was the political party of SUBJECT_ENTITY
+member of political party	SUBJECT_ENTITY was a member of OBJECT_ENTITY political party
+member of political party	SUBJECT_ENTITY was in OBJECT_ENTITY political party
+member of sports team	SUBJECT_ENTITY plays for the sports team OBJECT_ENTITY
+member of sports team	Player SUBJECT_ENTITY plays for OBJECT_ENTITY team
+member of sports team	OBJECT_ENTITY is the name of the sports team whose member is SUBJECT_ENTITY
+member of sports team	OBJECT_ENTITY is the name of SUBJECT_ENTITY's team
+member of sports team	OBJECT_ENTITY is the team that SUBJECT_ENTITY is associated with
+member of sports team	OBJECT_ENTITY is the sports team SUBJECT_ENTITY was a member of
+member of sports team	OBJECT_ENTITY is the team that SUBJECT_ENTITY plays for
+member of sports team	OBJECT_ENTITY is the team that SUBJECT_ENTITY is affiliated with
+member of sports team	SUBJECT_ENTITY is associated with OBJECT_ENTITY team
+member of sports team	OBJECT_ENTITY was the name of SUBJECT_ENTITY's team
+member of sports team	OBJECT_ENTITY was SUBJECT_ENTITY's team
+member of sports team	OBJECT_ENTITY is the sports team which SUBJECT_ENTITY is a member of
+member of sports team	OBJECT_ENTITY is the sports team SUBJECT_ENTITY is playing for
+member of sports team	OBJECT_ENTITY is the sports team which SUBJECT_ENTITY plays for
+member of sports team	SUBJECT_ENTITY is a member of OBJECT_ENTITY team
+military branch	OBJECT_ENTITY is the military branch that SUBJECT_ENTITY served
+military branch	OBJECT_ENTITY is the military organization that SUBJECT_ENTITY served
+military branch	OBJECT_ENTITY is the military branch to which SUBJECT_ENTITY belonged
+military branch	OBJECT_ENTITY is the armed force that SUBJECT_ENTITY served in
+military branch	OBJECT_ENTITY is the armed force that SUBJECT_ENTITY was a part of
+military branch	OBJECT_ENTITY is the armed force that SUBJECT_ENTITY was in
+military branch	OBJECT_ENTITY is the army that SUBJECT_ENTITY did serve in
+military branch	SUBJECT_ENTITY was a part of OBJECT_ENTITY army
+military branch	OBJECT_ENTITY is the military branch that SUBJECT_ENTITY was a part of
+military branch	SUBJECT_ENTITY belongs to the military branch OBJECT_ENTITY
+military branch	OBJECT_ENTITY is the military branch which SUBJECT_ENTITY served
+military branch	OBJECT_ENTITY is the military branch of SUBJECT_ENTITY
+military branch	OBJECT_ENTITY is the military branch that SUBJECT_ENTITY is associated with
+military branch	OBJECT_ENTITY is the military branch that SUBJECT_ENTITY was in
+military branch	SUBJECT_ENTITY belongs to the military organization OBJECT_ENTITY
+military branch	SUBJECT_ENTITY was a part of the military branch OBJECT_ENTITY
+military branch	OBJECT_ENTITY is the organization that SUBJECT_ENTITY was involved with
+military branch	OBJECT_ENTITY was the military branch for SUBJECT_ENTITY
+military branch	OBJECT_ENTITY is the armed forces that SUBJECT_ENTITY served
+military branch	OBJECT_ENTITY armed forces utilised the service of SUBJECT_ENTITY
+military branch	SUBJECT_ENTITY was a part of the entity OBJECT_ENTITY
+military branch	OBJECT_ENTITY is the military branch that SUBJECT_ENTITY is a part of
+military branch	OBJECT_ENTITY is the military that SUBJECT_ENTITY served with
+military branch	SUBJECT_ENTITY served for OBJECT_ENTITY
+military branch	SUBJECT_ENTITY held a command with the military branch OBJECT_ENTITY
+military branch	OBJECT_ENTITY is the military branch that SUBJECT_ENTITY served with
+military rank	OBJECT_ENTITY along with privateer was SUBJECT_ENTITY's military rank
+military rank	OBJECT_ENTITY is the ranking that SUBJECT_ENTITY holds in the military
+mother	The mother of SUBJECT_ENTITY is OBJECT_ENTITY
+mother	The person that is the mother of SUBJECT_ENTITY is OBJECT_ENTITY
+mother	OBJECT_ENTITY was the name of SUBJECT_ENTITY's mother
+mother	OBJECT_ENTITY is the lady that gave birth to SUBJECT_ENTITY
+mother	OBJECT_ENTITY is the lady that SUBJECT_ENTITY was born to
+mother	OBJECT_ENTITY is the mother of SUBJECT_ENTITY
+mother	OBJECT_ENTITY is SUBJECT_ENTITY's mother
+mother	OBJECT_ENTITY was the mother of SUBJECT_ENTITY
+mother	OBJECT_ENTITY was SUBJECT_ENTITY's mother
+mouth of the watercourse	SUBJECT_ENTITY is a tributary of the river OBJECT_ENTITY
+mouth of the watercourse	The body of water that SUBJECT_ENTITY is near is OBJECT_ENTITY
+mouth of the watercourse	OBJECT_ENTITY is the body of water that SUBJECT_ENTITY joins
+mouth of the watercourse	OBJECT_ENTITY is watercourse that SUBJECT_ENTITY flows into
+mouth of the watercourse	SUBJECT_ENTITY is a tributary of OBJECT_ENTITY
+mouth of the watercourse	SUBJECT_ENTITY connects to the river OBJECT_ENTITY
+mouth of the watercourse	SUBJECT_ENTITY forms a part of the river OBJECT_ENTITY
+mouth of the watercourse	SUBJECT_ENTITY turns into the river OBJECT_ENTITY
+mouth of the watercourse	SUBJECT_ENTITY is a tributary of OBJECT_ENTITY
+mouth of the watercourse	OBJECT_ENTITY is the river system that contains SUBJECT_ENTITY
+named after	The SUBJECT_ENTITY was named for OBJECT_ENTITY
+named after	The SUBJECT_ENTITY was named after OBJECT_ENTITY
+named after	The SUBJECT_ENTITY is named after OBJECT_ENTITY
+named after	OBJECT_ENTITY is who the SUBJECT_ENTITY is named after
+narrative location	OBJECT_ENTITY is the place that SUBJECT_ENTITY exists in
+narrative location	OBJECT_ENTITY is the place that SUBJECT_ENTITY is in
+native language	The nationality of SUBJECT_ENTITY is OBJECT_ENTITY
+native language	The nationality of SUBJECT_ENTITY was OBJECT_ENTITY
+native language	The language of SUBJECT_ENTITY is OBJECT_ENTITY
+native language	OBJECT_ENTITY is the national identity of SUBJECT_ENTITY
+native language	OBJECT_ENTITY is the native language of SUBJECT_ENTITY
+native language	OBJECT_ENTITY is the native tongue of SUBJECT_ENTITY
+native language	OBJECT_ENTITY nationality is SUBJECT_ENTITY
+native language	The nationality of SUBJECT_ENTITY is OBJECT_ENTITY
+native language	OBJECT_ENTITY was the nationality of SUBJECT_ENTITY
+native language	OBJECT_ENTITY was the native language of SUBJECT_ENTITY
+native language	OBJECT_ENTITY is the ethnic group that SUBJECT_ENTITY belongs
+native language	OBJECT_ENTITY was the nationality of SUBJECT_ENTITY
+noble family	OBJECT_ENTITY is the family lineage tha SUBJECT_ENTITY was part of
+noble family	OBJECT_ENTITY is the noble family that SUBJECT_ENTITY was part of
+noble family	The noble family that SUBJECT_ENTITY was from is OBJECT_ENTITY
+noble title	OBJECT_ENTITY is the noble title that SUBJECT_ENTITY holds
+noble title	OBJECT_ENTITY was the title that SUBJECT_ENTITY held
+nominated for	OBJECT_ENTITY was the award that SUBJECT_ENTITY was nominated for
+nominated for	SUBJECT_ENTITY was nominated for OBJECT_ENTITY
+occupant	OBJECT_ENTITY is the team that uses SUBJECT_ENTITY
+occupation	OBJECT_ENTITY is the kind of  occupation that SUBJECT_ENTITY has
+occupation	OBJECT_ENTITY was SUBJECT_ENTITY's career
+occupation	OBJECT_ENTITY was SUBJECT_ENTITY's occupation
+operating system	OBJECT_ENTITY is the operating system used with SUBJECT_ENTITY
+original network	OBJECT_ENTITY is the channel on which SUBJECT_ENTITY first aired
+original network	OBJECT_ENTITY was the channel on which SUBJECT_ENTITY first appearred
+original network	OBJECT_ENTITY is the network on which SUBJECT_ENTITY first played
+original network	The show SUBJECT_ENTITY originally aired on the network OBJECT_ENTITY
+original network	OBJECT_ENTITY was the broadcasting company that aired SUBJECT_ENTITY
+original network	OBJECT_ENTITY channel aired SUBJECT_ENTITY
+original network	OBJECT_ENTITY is the original channel that SUBJECT_ENTITY played on
+original network	OBJECT_ENTITY is the original network of SUBJECT_ENTITY
+original network	OBJECT_ENTITY is the network that aired SUBJECT_ENTITY
+original network	OBJECT_ENTITY network broadcast SUBJECT_ENTITY
+original network	OBJECT_ENTITY is the network that SUBJECT_ENTITY aired on
+original network	OBJECT_ENTITY is the network that SUBJECT_ENTITY originally appeared on
+original network	OBJECT_ENTITY is the network that SUBJECT_ENTITY airs on
+original network	OBJECT_ENTITY is the network that first aired SUBJECT_ENTITY
+original network	OBJECT_ENTITY network hosts SUBJECT_ENTITY
+original network	The SUBJECT_ENTITY is associated with the network OBJECT_ENTITY'
+original network	OBJECT_ENTITY is the original network that SUBJECT_ENTITY is on
+original network	SUBJECT_ENTITY premiered on the station OBJECT_ENTITY
+original network	OBJECT_ENTITY was the first network that SUBJECT_ENTITY was on
+original network	OBJECT_ENTITY was the original network for SUBJECT_ENTITY
+original network	OBJECT_ENTITY was the original network of SUBJECT_ENTITY
+original network	OBJECT_ENTITY was the station that aired SUBJECT_ENTITY
+original network	OBJECT_ENTITY was SUBJECT_ENTITY's original network
+original network	OBJECT_ENTITY is where you can find the show SUBJECT_ENTITY
+original network	OBJECT_ENTITY is the network which aired SUBJECT_ENTITY
+original network	OBJECT_ENTITY was the channel that broadcast SUBJECT_ENTITY
+original network	OBJECT_ENTITY is the original network of SUBJECT_ENTITY
+original network	OBJECT_ENTITY network broadcasted SUBJECT_ENTITY
+original network	OBJECT_ENTITY is the network that SUBJECT_ENTITY appears on
+original network	OBJECT_ENTITY is the network that SUBJECT_ENTITY is a part of
+original network	SUBJECT_ENTITY is available on the network OBJECT_ENTITY
+original network	OBJECT_ENTITY is the network that plays SUBJECT_ENTITY
+original network	The original network OBJECT_ENTITY is part of SUBJECT_ENTITY
+original network	OBJECT_ENTITY was the network that originally hosted SUBJECT_ENTITY
+original network	OBJECT_ENTITY broadcasted SUBJECT_ENTITY
+parent company	SUBJECT_ENTITY is part of the company OBJECT_ENTITY
+parent company	SUBJECT_ENTITY's parent company is OBJECT_ENTITY
+parent company	OBJECT_ENTITY is the parent company of SUBJECT_ENTITY
+parent taxon	The genus SUBJECT_ENTITY is a part of the family OBJECT_ENTITY
+parent taxon	SUBJECT_ENTITY belongs to the family OBJECT_ENTITY
+parent taxon	OBJECT_ENTITY is the kind of family SUBJECT_ENTITY is of
+parent taxon	SUBJECT_ENTITY belongs to the family OBJECT_ENTITY
+parent taxon	SUBJECT_ENTITY is a part of the family OBJECT_ENTITY
+parent taxon	OBJECT_ENTITY was the family of SUBJECT_ENTITY
+participant of	OBJECT_ENTITY is the event that SUBJECT_ENTITY participated in
+participant of	SUBJECT_ENTITY was a part of the event OBJECT_ENTITY
+participant of	OBJECT_ENTITY is the olympics that SUBJECT_ENTITY participated in
+participant of	The olympics that SUBJECT_ENTITY was is OBJECT_ENTITY
+participant of	OBJECT_ENTITY was the competition SUBJECT_ENTITY was in
+participant of	SUBJECT_ENTITY participated in the event OBJECT_ENTITY
+participant of	OBJECT_ENTITY is the event that SUBJECT_ENTITY was a participant of
+participant of	SUBJECT_ENTITY competed in the olympics OBJECT_ENTITY
+participant of	SUBJECT_ENTITY was at the olympics OBJECT_ENTITY
+performer	The song or album SUBJECT_ENTITY came from the artiste OBJECT_ENTITY
+performer	The song SUBJECT_ENTITY is by the artist OBJECT_ENTITY
+performer	The song SUBJECT_ENTITY was by OBJECT_ENTITY
+performer	The album SUBJECT_ENTITY belongs to the performer OBJECT_ENTITY
+performer	The artist OBJECT_ENTITY created SUBJECT_ENTITY
+performer	The artist OBJECT_ENTITY released SUBJECT_ENTITY
+performer	The artist OBJECT_ENTITY was responsible for the creation of SUBJECT_ENTITY
+performer	OBJECT_ENTITY is the name of the artist or group which originally performed SUBJECT_ENTITY
+performer	OBJECT_ENTITY is the name of the performer that released the album SUBJECT_ENTITY
+performer	OBJECT_ENTITY was SUBJECT_ENTITY's performers name
+performer	SUBJECT_ENTITY is co-written and recorded by the artiste OBJECT_ENTITY
+performer	OBJECT_ENTITY is the artist or group that performed SUBJECT_ENTITY
+performer	OBJECT_ENTITY is the performer that released the album SUBJECT_ENTITY
+performer	The performer OBJECT_ENTITY released SUBJECT_ENTITY
+performer	The performer OBJECT_ENTITY released SUBJECT_ENTITY as it's album
+performer	SUBJECT_ENTITY is the fifth studio album of the singer-songwriter OBJECT_ENTITY
+performer	OBJECT_ENTITY created SUBJECT_ENTITY
+performer	OBJECT_ENTITY is the artiste of SUBJECT_ENTITY
+performer	OBJECT_ENTITY is the performer of SUBJECT_ENTITY
+performer	OBJECT_ENTITY made SUBJECT_ENTITY
+performer	OBJECT_ENTITY originally recorded SUBJECT_ENTITY
+performer	OBJECT_ENTITY performed SUBJECT_ENTITY
+performer	OBJECT_ENTITY recorded SUBJECT_ENTITY
+performer	OBJECT_ENTITY released SUBJECT_ENTITY album
+performer	OBJECT_ENTITY sang or played SUBJECT_ENTITY
+performer	OBJECT_ENTITY sang SUBJECT_ENTITY
+performer	The artiste OBJECT_ENTITY performed SUBJECT_ENTITY
+performer	OBJECT_ENTITY was the artiste for SUBJECT_ENTITY
+performer	OBJECT_ENTITY was the performer of SUBJECT_ENTITY
+place of birth	SUBJECT_ENTITY was born in the city of OBJECT_ENTITY
+place of birth	The city OBJECT_ENTITY is where SUBJECT_ENTITY was born
+place of birth	OBJECT_ENTITY is the city where SUBJECT_ENTITY was born
+place of birth	The city OBJECT_ENTITY is where SUBJECT_ENTITY was born in
+place of birth	OBJECT_ENTITY is the birth place of  SUBJECT_ENTITY
+place of birth	OBJECT_ENTITY is the birthplace of SUBJECT_ENTITY
+place of birth	OBJECT_ENTITY is the city of birth of SUBJECT_ENTITY
+place of birth	OBJECT_ENTITY is the name of the city SUBJECT_ENTITY was born in
+place of birth	OBJECT_ENTITY is the place of birth of SUBJECT_ENTITY
+place of birth	OBJECT_ENTITY is SUBJECT_ENTITY's birthplace
+place of birth	OBJECT_ENTITY was SUBJECT_ENTITY's city of birth
+place of birth	OBJECT_ENTITY is where SUBJECT_ENTITY was born
+place of birth	SUBJECT_ENTITY was born in OBJECT_ENTITY
+place of birth	The city OBJECT_ENTITY was the birthplace of SUBJECT_ENTITY
+place of burial	OBJECT_ENTITY is the cemetery at SUBJECT_ENTITY was buried
+place of burial	SUBJECT_ENTITY was buried in the cemetery OBJECT_ENTITY
+place of burial	The final resting place of SUBJECT_ENTITY is at the cemetery OBJECT_ENTITY
+place of burial	The cemetery OBJECT_ENTITY is where SUBJECT_ENTITY was buried in
+place of burial	SUBJECT_ENTITY is located in the cemetery OBJECT_ENTITY
+place of burial	SUBJECT_ENTITY was buried in the cemetery OBJECT_ENTITY
+place of burial	The cemetery OBJECT_ENTITY is where SUBJECT_ENTITY was buried
+place of burial	OBJECT_ENTITY is the name of the cemetery that SUBJECT_ENTITY was buried in
+place of burial	OBJECT_ENTITY is the place of burial for SUBJECT_ENTITY
+place of burial	OBJECT_ENTITY is the place of burial of SUBJECT_ENTITY
+place of burial	OBJECT_ENTITY is where the body of SUBJECT_ENTITY was buried
+place of burial	OBJECT_ENTITY is where SUBJECT_ENTITY was buried
+place of death	OBJECT_ENTITY is the location where SUBJECT_ENTITY died
+place of death	OBJECT_ENTITY is the city where SUBJECT_ENTITY died
+place of death	The place where SUBJECT_ENTITY died is OBJECT_ENTITY
+place of death	OBJECT_ENTITY is the city where SUBJECT_ENTITY was living when he died
+place of death	OBJECT_ENTITY is where the SUBJECT_ENTITY was living when he died
+point in time	OBJECT_ENTITY is the date on which SUBJECT_ENTITY occurred
+point in time	OBJECT_ENTITY is the date on which SUBJECT_ENTITY took place
+point in time	OBJECT_ENTITY is the date of SUBJECT_ENTITY
+point in time	The date of SUBJECT_ENTITY was OBJECT_ENTITY
+point in time	The point in time of SUBJECT_ENTITY was OBJECT_ENTITY
+point in time	OBJECT_ENTITY is the point in time of SUBJECT_ENTITY
+point in time	The date OBJECT_ENTITY is associated with SUBJECT_ENTITY
+point in time	OBJECT_ENTITY is the date when SUBJECT_ENTITY happened
+point in time	OBJECT_ENTITY is the full date that SUBJECT_ENTITY crashed on
+point in time	OBJECT_ENTITY was the date of SUBJECT_ENTITY
+point in time	OBJECT_ENTITY was when SUBJECT_ENTITY occurred
+point in time	OBJECT_ENTITY was the point in time when SUBJECT_ENTITY occurred
+position held	OBJECT_ENTITY is the position of SUBJECT_ENTITY
+position held	OBJECT_ENTITY was the position held by SUBJECT_ENTITY
+position held	The position that SUBJECT_ENTITY held is OBJECT_ENTITY
+position played on team / speciality	OBJECT_ENTITY is the position on the field of football that SUBJECT_ENTITY plays
+position played on team / speciality	In football, OBJECT_ENTITY is the position that SUBJECT_ENTITY plays
+position played on team / speciality	SUBJECT_ENTITY plays football in the capacity of OBJECT_ENTITY
+position played on team / speciality	OBJECT_ENTITY is the position which SUBJECT_ENTITY plays
+position played on team / speciality	OBJECT_ENTITY is the field position that SUBJECT_ENTITY plays
+position played on team / speciality	OBJECT_ENTITY is the football position that SUBJECT_ENTITY plays
+position played on team / speciality	OBJECT_ENTITY is the football position of SUBJECT_ENTITY
+position played on team / speciality	OBJECT_ENTITY is the name of SUBJECT_ENTITY's position
+position played on team / speciality	OBJECT_ENTITY is the position of SUBJECT_ENTITY
+position played on team / speciality	The position that SUBJECT_ENTITY plays is called OBJECT_ENTITY
+ position played on team / speciality	OBJECT_ENTITY is the position SUBJECT_ENTITY plays in football
+position played on team / speciality	OBJECT_ENTITY is SUBJECT_ENTITY's position in football
+position played on team / speciality	OBJECT_ENTITY is SUBJECT_ENTITY's position on the field while playing football
+position played on team / speciality	OBJECT_ENTITY is the position that SUBJECT_ENTITY plays on the rugby field
+position played on team / speciality	OBJECT_ENTITY is the position that SUBJECT_ENTITY plays
+position played on team / speciality	OBJECT_ENTITY is the position that SUBJECT_ENTITY plays in football
+position played on team / speciality	The position that SUBJECT_ENTITY plays is OBJECT_ENTITY
+position played on team / speciality	OBJECT_ENTITY is the position that SUBJECT_ENTITY plays on the field
+position played on team / speciality	OBJECT_ENTITY is the position in football that SUBJECT_ENTITY play
+position played on team / speciality	OBJECT_ENTITY is the position played by SUBJECT_ENTITY
+position played on team / speciality	OBJECT_ENTITY position was played by SUBJECT_ENTITY
+position played on team / speciality	The role that SUBJECT_ENTITY plays in football is OBJECT_ENTITY
+position played on team / speciality	OBJECT_ENTITY was the position of SUBJECT_ENTITY
+position played on team / speciality	OBJECT_ENTITY was SUBJECT_ENTITY's specialty in their profesisonal sport
+position played on team / speciality	OBJECT_ENTITY was SUBJECT_ENTITY's position
+position played on team / speciality	OBJECT_ENTITY is the position of SUBJECT_ENTITY
+position played on team / speciality	OBJECT_ENTITY is the player position that SUBJECT_ENTITY belongs to
+position played on team / speciality	OBJECT_ENTITY is the player position that has been assigned to SUBJECT_ENTITY
+position played on team / speciality	OBJECT_ENTITY is the player position that has been associated with SUBJECT_ENTITY
+present in work	OBJECT_ENTITY is the fictional work in which you would find a character named SUBJECT_ENTITY
+present in work	OBJECT_ENTITY is a fictional work in which SUBJECT_ENTITY is a character
+present in work	The appearance of SUBJECT_ENTITY is seen in the work OBJECT_ENTITY
+present in work	OBJECT_ENTITY is the fictional work that SUBJECT_ENTITY appears in
+present in work	The fictional work that SUBJECT_ENTITY belong in is OBJECT_ENTITY
+present in work	The fictional work that SUBJECT_ENTITY exists in is OBJECT_ENTITY
+present in work	The piece of fiction that SUBJECT_ENTITY appears in is OBJECT_ENTITY
+present in work	OBJECT_ENTITY is the show that SUBJECT_ENTITY is from
+present in work	OBJECT_ENTITY is the work of fiction that SUBJECT_ENTITY is located in
+present in work	OBJECT_ENTITY is the show that SUBJECT_ENTITY is in
+production company	The production company responsible for SUBJECT_ENTITY is OBJECT_ENTITY
+production company	OBJECT_ENTITY is the production company or companies that created SUBJECT_ENTITY
+production company	OBJECT_ENTITY production company was involved in SUBJECT_ENTITY
+production company	OBJECT_ENTITY is the studio that produced SUBJECT_ENTITY
+production company	OBJECT_ENTITY is the production company involved with SUBJECT_ENTITY
+product	The product of SUBJECT_ENTITY is OBJECT_ENTITY
+product	OBJECT_ENTITY is a product made by SUBJECT_ENTITY
+product	OBJECT_ENTITY is a product of SUBJECT_ENTITY
+product	OBJECT_ENTITY is a product that SUBJECT_ENTITY makes
+product	OBJECT_ENTITY is a product that SUBJECT_ENTITY produces
+product	OBJECT_ENTITY is the type of product that SUBJECT_ENTITY produces
+programming language	OBJECT_ENTITY is the programming language for SUBJECT_ENTITY
+programming language	OBJECT_ENTITY programming language was used to write SUBJECT_ENTITY
+programming language	OBJECT_ENTITY is the programming language SUBJECT_ENTITY is written in
+publication date	The film SUBJECT_ENTITY was released in the year OBJECT_ENTITY
+publication date	SUBJECT_ENTITY was created in the year OBJECT_ENTITY
+publication date	SUBJECT_ENTITY was published in the year OBJECT_ENTITY
+publication date	SUBJECT_ENTITY was released in the year OBJECT_ENTITY
+publication date	The date of publication for SUBJECT_ENTITY was OBJECT_ENTITY
+publication date	The publication date of SUBJECT_ENTITY is OBJECT_ENTITY
+publication date	The publication year of SUBJECT_ENTITY was OBJECT_ENTITY
+publication date	The year that SUBJECT_ENTITY was made was OBJECT_ENTITY
+publication date	OBJECT_ENTITY is the publication date of SUBJECT_ENTITY
+publication date	OBJECT_ENTITY is the publication year of SUBJECT_ENTITY
+publication date	OBJECT_ENTITY is the year that SUBJECT_ENTITY was released
+publication date	OBJECT_ENTITY was the publication year of SUBJECT_ENTITY
+publication date	OBJECT_ENTITY was the release year of SUBJECT_ENTITY
+publication date	OBJECT_ENTITY was the year in which SUBJECT_ENTITY was made
+publication date	OBJECT_ENTITY was the year of publication for SUBJECT_ENTITY
+publication date	OBJECT_ENTITY was the year of SUBJECT_ENTITY
+publication date	The year that SUBJECT_ENTITY came out was OBJECT_ENTITY
+publication date	OBJECT_ENTITY was the year SUBJECT_ENTITY was created
+publication date	OBJECT_ENTITY was the year SUBJECT_ENTITY was made
+publication date	SUBJECT_ENTITY was realeased in the year OBJECT_ENTITY
+publication date	OBJECT_ENTITY was the year SUBJECT_ENTITY was released
+publication date	OBJECT_ENTITY was when SUBJECT_ENTITY did come out
+publication date	OBJECT_ENTITY was when SUBJECT_ENTITY was in theaters
+publication date	OBJECT_ENTITY was when SUBJECT_ENTITY was made
+publication date	OBJECT_ENTITY was when SUBJECT_ENTITY was published
+publication date	OBJECT_ENTITY was when SUBJECT_ENTITY was released
+publication date	OBJECT_ENTITY is the publication date of SUBJECT_ENTITY
+publication date	OBJECT_ENTITY was the publication date of SUBJECT_ENTITY
+publication date	OBJECT_ENTITY was the publication year of SUBJECT_ENTITY
+publication date	OBJECT_ENTITY was the year SUBJECT_ENTITY was made
+publication date	SUBJECT_ENTITY was released in OBJECT_ENTITY year
+publisher	OBJECT_ENTITY is the publisher that published SUBJECT_ENTITY
+publisher	OBJECT_ENTITY business published SUBJECT_ENTITY
+publisher	OBJECT_ENTITY company published SUBJECT_ENTITY
+publisher	OBJECT_ENTITY is the name of the publisher of SUBJECT_ENTITY
+publisher	OBJECT_ENTITY is the publisher of SUBJECT_ENTITY
+publisher	OBJECT_ENTITY published SUBJECT_ENTITY
+publisher	OBJECT_ENTITY was the publisher of SUBJECT_ENTITY
+record label	The name of SUBJECT_ENTITY's record label is OBJECT_ENTITY
+record label	OBJECT_ENTITY label was responsible for SUBJECT_ENTITY
+record label	OBJECT_ENTITY was the record label of SUBJECT_ENTITY
+record label	OBJECT_ENTITY was the record label for SUBJECT_ENTITY
+religious order	The religious order to which SUBJECT_ENTITY belongs is OBJECT_ENTITY
+religious order	SUBJECT_ENTITY was a member of the group OBJECT_ENTITY
+replaced by	SUBJECT_ENTITY was replaced by OBJECT_ENTITY
+replaced by	OBJECT_ENTITY was what replaced SUBJECT_ENTITY
+replaced by	OBJECT_ENTITY replaced the SUBJECT_ENTITY
+residence	The city SUBJECT_ENTITY is associated with is OBJECT_ENTITY
+residence	SUBJECT_ENTITY is from the city of OBJECT_ENTITY
+screenwriter	SUBJECT_ENTITY, a 1909 american silent drama film was directed by OBJECT_ENTITY
+screenwriter	The film SUBJECT_ENTITY was directed by OBJECT_ENTITY
+screenwriter	The movie SUBJECT_ENTITY was directed by OBJECT_ENTITY
+screenwriter	The person that directed SUBJECT_ENTITY was OBJECT_ENTITY
+screenwriter	OBJECT_ENTITY is the name of the director who directed SUBJECT_ENTITY
+screenwriter	OBJECT_ENTITY is the person that directed SUBJECT_ENTITY
+screenwriter	OBJECT_ENTITY was the director of SUBJECT_ENTITY
+screenwriter	OBJECT_ENTITY directed SUBJECT_ENTITY
+screenwriter	OBJECT_ENTITY is the director of SUBJECT_ENTITY
+screenwriter	OBJECT_ENTITY served as director for SUBJECT_ENTITY
+screenwriter	OBJECT_ENTITY was responsible for the direction of SUBJECT_ENTITY
+screenwriter	OBJECT_ENTITY was the director for SUBJECT_ENTITY
+screenwriter	OBJECT_ENTITY was the director of SUBJECT_ENTITY
+screenwriter	OBJECT_ENTITY was the main director of SUBJECT_ENTITY
+screenwriter	SUBJECT_ENTITY was directed by OBJECT_ENTITY
+series	OBJECT_ENTITY is the series SUBJECT_ENTITY is a part of
+series	The SUBJECT_ENTITY is part of the OBJECT_ENTITY
+series	The SUBJECT_ENTITY was in the series OBJECT_ENTITY
+series	SUBJECT_ENTITY belongs to the series OBJECT_ENTITY
+series	SUBJECT_ENTITY belongs to the series called OBJECT_ENTITY
+series	SUBJECT_ENTITY is a part of the series OBJECT_ENTITY
+series	The episode SUBJECT_ENTITY is part of the series OBJECT_ENTITY
+series	SUBJECT_ENTITY is a part of the series OBJECT_ENTITY
+series	SUBJECT_ENTITY is from the series OBJECT_ENTITY
+series	SUBJECT_ENTITY is in the series OBJECT_ENTITY
+series	SUBJECT_ENTITY is a participant of the series OBJECT_ENTITY
+series	OBJECT_ENTITY is the series that SUBJECT_ENTITY is a part of
+series	OBJECT_ENTITY is the series which SUBJECT_ENTITY is a part of
+series	SUBJECT_ENTITY was in the series OBJECT_ENTITY
+series	SUBJECT_ENTITY appears on the show OBJECT_ENTITY
+service entry	SUBJECT_ENTITY entered service in the year OBJECT_ENTITY
+service entry	The year OBJECT_ENTITY was the service entry date for SUBJECT_ENTITY
+service entry	OBJECT_ENTITY was the year that SUBJECT_ENTITY entered service
+service entry	OBJECT_ENTITY was the year SUBJECT_ENTITY entered service
+service entry	SUBJECT_ENTITY came into use in the year OBJECT_ENTITY
+service entry	SUBJECT_ENTITY is associated with the year OBJECT_ENTITY
+service entry	The year OBJECT_ENTITY was the service entry date for SUBJECT_ENTITY
+service entry	SUBJECT_ENTITY was commissioned in the year OBJECT_ENTITY
+service entry	OBJECT_ENTITY was the year that SUBJECT_ENTITY was introduced
+service entry	SUBJECT_ENTITY was made in the year OBJECT_ENTITY
+service entry	OBJECT_ENTITY was the official year for the approval of SUBJECT_ENTITY
+sex or gender	SUBJECT_ENTITY has gender OBJECT_ENTITY
+sex or gender	The gender of SUBJECT_ENTITY is OBJECT_ENTITY
+sex or gender	The sex or gender of SUBJECT_ENTITY is OBJECT_ENTITY
+sex or gender	The gender of SUBJECT_ENTITY is OBJECT_ENTITY
+sex or gender	SUBJECT_ENTITY belongs to the gender class OBJECT_ENTITY
+sex or gender	What is sex of SUBJECT_ENTITY is OBJECT_ENTITY
+sex or gender	SUBJECT_ENTITY is the gender of OBJECT_ENTITY
+sex or gender	SUBJECT_ENTITY of gender OBJECT_ENTITY
+sex or gender	OBJECT_ENTITY is the gender of SUBJECT_ENTITY
+sex or gender	OBJECT_ENTITY is the gender SUBJECT_ENTITY is associated with
+sex or gender	OBJECT_ENTITY is the gender SUBJECT_ENTITY is known by
+sex or gender	OBJECT_ENTITY is the sex of SUBJECT_ENTITY
+sex or gender	OBJECT_ENTITY is the sex or gender of SUBJECT_ENTITY
+sex or gender	OBJECT_ENTITY is SUBJECT_ENTITY's gender
+sex or gender	OBJECT_ENTITY is SUBJECT_ENTITY's sex
+sex or gender	The sex of SUBJECT_ENTITY is OBJECT_ENTITY
+sex or gender	OBJECT_ENTITY was the gender of SUBJECT_ENTITY
+sex or gender	OBJECT_ENTITY was SUBJECT_ENTITY's gender
+sex or gender	OBJECT_ENTITY describes the sex or gender of SUBJECT_ENTITY
+sex or gender	OBJECT_ENTITY is the gender that SUBJECT_ENTITY belongs to
+sex or gender	OBJECT_ENTITY is the gender of SUBJECT_ENTITY
+sex or gender	OBJECT_ENTITY is the sex of SUBJECT_ENTITY
+sex or gender	SUBJECT_ENTITY can be described as the sex or gender OBJECT_ENTITY
+sex or gender	OBJECT_ENTITY was the gender of SUBJECT_ENTITY
+sister	The woman OBJECT_ENTITY was the sister of SUBJECT_ENTITY
+sister	OBJECT_ENTITY is SUBJECT_ENTITY's sister
+site of astronomical discovery	The observatory or station OBJECT_ENTITY is where SUBJECT_ENTITY was discovered
+site of astronomical discovery	SUBJECT_ENTITY was discovered at the observatory OBJECT_ENTITY
+site of astronomical discovery	OBJECT_ENTITY was the observatory at which SUBJECT_ENTITY was discovered
+site of astronomical discovery	SUBJECT_ENTITY was discovered at the OBJECT_ENTITY laboratory
+site of astronomical discovery	Scientists use the OBJECT_ENTITY observatory to find SUBJECT_ENTITY
+site of astronomical discovery	SUBJECT_ENTITY is associated with the observatory OBJECT_ENTITY
+site of astronomical discovery	OBJECT_ENTITY observatory or station found SUBJECT_ENTITY
+site of astronomical discovery	OBJECT_ENTITY is the observatory or station SUBJECT_ENTITY is associated with
+site of astronomical discovery	OBJECT_ENTITY is where the discovery of SUBJECT_ENTITY was made
+sport	Athlete SUBJECT_ENTITY is known for the sport OBJECT_ENTITY
+sport	The sport SUBJECT_ENTITY is associated with OBJECT_ENTITY
+sport	OBJECT_ENTITY is the sports with which SUBJECT_ENTITY is related
+sport	OBJECT_ENTITY is SUBJECT_ENTITY's sport
+sport	OBJECT_ENTITY is SUBJECT_ENTITY's sport of choice
+sport	OBJECT_ENTITY is a sport that SUBJECT_ENTITY plays
+sport	SUBJECT_ENTITY plays the sport OBJECT_ENTITY
+sport	SUBJECT_ENTITY is associated with the sport OBJECT_ENTITY
+sport	OBJECT_ENTITY is the sport SUBJECT_ENTITY is known for playing professionally
+sport	OBJECT_ENTITY is SUBJECT_ENTITY's sport
+sport	OBJECT_ENTITY is the sport played by SUBJECT_ENTITY
+sport	OBJECT_ENTITY is the sport SUBJECT_ENTITY plays
+sport	OBJECT_ENTITY is the sport SUBJECT_ENTITY does/did play
+sport	SUBJECT_ENTITY practices the sport OBJECT_ENTITY
+sport	The sport OBJECT_ENTITY has connection with is SUBJECT_ENTITY
+sport	The sport OBJECT_ENTITY is associated with is SUBJECT_ENTITY
+sport	The sport associated with SUBJECT_ENTITY is OBJECT_ENTITY
+sport	SUBJECT_ENTITY works with the sport OBJECT_ENTITY
+sport	SUBJECT_ENTITY is associated with the sport OBJECT_ENTITY
+spouse	SUBJECT_ENTITY's spouse's name is OBJECT_ENTITY
+standards body	OBJECT_ENTITY is the standards body for SUBJECT_ENTITY
+start time	OBJECT_ENTITY is the start time of SUBJECT_ENTITY
+stock exchange	OBJECT_ENTITY is the stock exchange to which SUBJECT_ENTITY belongs
+stock exchange	OBJECT_ENTITY is the stock exchange most closely associated with SUBJECT_ENTITY
+stock exchange	OBJECT_ENTITY is the stock exchange SUBJECT_ENTITY is associated with
+stock exchange	OBJECT_ENTITY is the stock exchange SUBJECT_ENTITY is on
+stock exchange	OBJECT_ENTITY is the stock exchange that SUBJECT_ENTITY is listed with
+stock exchange	OBJECT_ENTITY is the exchange which SUBJECT_ENTITY is listed on
+stock exchange	OBJECT_ENTITY is the exchange which trades SUBJECT_ENTITY
+stock exchange	OBJECT_ENTITY is the stock exchange which SUBJECT_ENTITY went public on
+stock exchange	OBJECT_ENTITY is the stock exchange which SUBJECT_ENTITY was affiliated with
+taxon rank	OBJECT_ENTITY is the taxon rank of SUBJECT_ENTITY
+taxon rank	SUBJECT_ENTITY is of taxon rank OBJECT_ENTITY
+time of discovery	OBJECT_ENTITY was the time at which SUBJECT_ENTITY was discovered
+time of discovery	The discovery date or year of SUBJECT_ENTITY is OBJECT_ENTITY
+time of discovery	The SUBJECT_ENTITY was discovered in the time of the year OBJECT_ENTITY
+time of discovery	The time that SUBJECT_ENTITY was discovered is OBJECT_ENTITY
+time of discovery	OBJECT_ENTITY is the full date of discovery for SUBJECT_ENTITY
+time of discovery	OBJECT_ENTITY is the time of the year SUBJECT_ENTITY was discovered
+time of discovery	OBJECT_ENTITY is the time SUBJECT_ENTITY was found
+time of discovery	OBJECT_ENTITY is the time of the year SUBJECT_ENTITY was discovered
+time of discovery	OBJECT_ENTITY is the time of the year SUBJECT_ENTITY was found
+time of discovery	The time of discovery or creation of SUBJECT_ENTITY was at OBJECT_ENTITY
+time of discovery	OBJECT_ENTITY was the time when SUBJECT_ENTITY got discovered
+time of discovery	OBJECT_ENTITY is the time when SUBJECT_ENTITY was discovered
+time of discovery	The time of discovery of SUBJECT_ENTITY is OBJECT_ENTITY
+time of discovery	OBJECT_ENTITY was the time of discovery of SUBJECT_ENTITY
+time of discovery	OBJECT_ENTITY is when SUBJECT_ENTITY was discovered
+time of discovery	The time of SUBJECT_ENTITY's discovery is OBJECT_ENTITY
+time of discovery	OBJECT_ENTITY is time when SUBJECT_ENTITY was discovered or created
+time of discovery	OBJECT_ENTITY is time when SUBJECT_ENTITY was first discovered
+time of discovery	OBJECT_ENTITY was when SUBJECT_ENTITY found
+time of discovery	OBJECT_ENTITY was when SUBJECT_ENTITY was found or made
+time of spacecraft launch	OBJECT_ENTITY is the date on which SUBJECT_ENTITY did launch
+time of spacecraft launch	OBJECT_ENTITY is the date that SUBJECT_ENTITY did lift off
+time of spacecraft launch	OBJECT_ENTITY is the date that SUBJECT_ENTITY did take off
+time of spacecraft launch	OBJECT_ENTITY is the date that SUBJECT_ENTITY was launched
+time of spacecraft launch	The SUBJECT_ENTITY was launched on OBJECT_ENTITY
+time of spacecraft launch	The date SUBJECT_ENTITY was launched is OBJECT_ENTITY
+time of spacecraft launch	The day SUBJECT_ENTITY was launched is OBJECT_ENTITY
+time of spacecraft launch	The launch date of SUBJECT_ENTITY is OBJECT_ENTITY
+time of spacecraft launch	The date of SUBJECT_ENTITY's launch is OBJECT_ENTITY
+time of spacecraft launch	OBJECT_ENTITY was the date SUBJECT_ENTITY was launched
+time of spacecraft launch	OBJECT_ENTITY was the launch date of SUBJECT_ENTITY
+time of spacecraft launch	OBJECT_ENTITY was the launch date of SUBJECT_ENTITY
+time of spacecraft launch	OBJECT_ENTITY was SUBJECT_ENTITY's launch date
+vessel class	SUBJECT_ENTITY's specific type of seafaring vessel was OBJECT_ENTITY
+vessel class	SUBJECT_ENTITY's type of aquatic unit is OBJECT_ENTITY
+vessel class	OBJECT_ENTITY is the type of submarine SUBJECT_ENTITY was classified as
+vessel class	SUBJECT_ENTITY's vessel type is OBJECT_ENTITY
+voice type	OBJECT_ENTITY is the voice type of SUBJECT_ENTITY
+voice type	OBJECT_ENTITY is the vocal range for SUBJECT_ENTITY
+voice type	OBJECT_ENTITY is the type of tone that SUBJECT_ENTITY sings in
+voice type	OBJECT_ENTITY is the type of voice that SUBJECT_ENTITY has
+voice type	The voice type that SUBJECT_ENTITY has is OBJECT_ENTITY
+voice type	SUBJECT_ENTITY's voice type is OBJECT_ENTITY
+voice type	OBJECT_ENTITY was SUBJECT_ENTITY's voice range
+voice type	OBJECT_ENTITY was the voice type that SUBJECT_ENTITY had
