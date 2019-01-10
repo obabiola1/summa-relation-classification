@@ -20,8 +20,7 @@ relations, edit the file by adding your own relations and their descriptions.
  
 After cloning this repository, download ` glove.840B.300d.zip` from `https://nlp.stanford.edu/projects/glove`, 
 extract it and put it under the data directory. Also download our provided pretrained `model` folder from 
-`https://drive.google
-.com/drive/folders/15_mxp9lzE_FlzbYM-14uH6sWu4W29Tkt?usp=sharing` and put it under the `data` directory.
+`https://drive.google.com/drive/folders/15_mxp9lzE_FlzbYM-14uH6sWu4W29Tkt?usp=sharing` and put it under the `data` directory.
 
 Then build the docker image that serves the api with the command:
 
